@@ -29,6 +29,8 @@ http://160.20.164.171:8001/play/a08z/index.m3u8
 http://160.20.164.171:8001/play/a00l/index.m3u8
 #EXTINF:-1 ,Canal Estrellas
 http://160.20.164.171:8001/play/a054/index.m3u8
+#EXTINF:-1 ,Caracol
+http://160.20.164.171:8001/play/a00a/index.m3u8
 #EXTINF:-1 ,Cartoon Network
 http://160.20.164.171:8001/play/a003/index.m3u8
 #EXTINF:-1 ,Cartoonito
@@ -219,6 +221,8 @@ http://160.20.164.171:8001/play/a017/index.m3u8
 http://160.20.164.171:8001/play/a074/index.m3u8
 #EXTINF:-1 ,RCN - GUA
 http://160.20.164.171:8001/play/a035/index.m3u8
+#EXTINF:-1 ,RCN
+http://160.20.164.171:8001/play/a052/index.m3u8
 #EXTINF:-1 ,RCN Novelas
 http://160.20.164.171:8001/play/a02t/index.m3u8
 #EXTINF:-1 ,RTS
