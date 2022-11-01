@@ -231,6 +231,8 @@ http://160.20.164.171:8001/play/a04f/index.m3u8
 http://160.20.164.171:8001/play/a07r/index.m3u8
 #EXTINF:-1 ,Sembrador
 http://160.20.164.171:8001/play/a033/index.m3u8
+#EXTINF:-1 ,Señal Colombia
+http://160.20.164.171:8001/play/a05b/index.m3u
 #EXTINF:-1 ,Sextreme
 http://160.20.164.171:8001/play/a028/index.m3u8
 #EXTINF:-1 ,Sony
@@ -251,6 +253,8 @@ http://160.20.164.171:8001/play/a01z/index.m3u8
 http://160.20.164.171:8001/play/a01p/index.m3u8
 #EXTINF:-1 ,Sun Channel
 http://160.20.164.171:8001/play/a02v/index.m3u8
+#EXTINF:-1 ,SyFy
+http://160.20.164.171:8001/play/a04x/index.m3u8
 #EXTINF:-1 ,TBN Enlace
 http://160.20.164.171:8001/play/a00m/index.m3u8
 #EXTINF:-1 ,TBS
