@@ -31,8 +31,14 @@ http://160.20.164.171:8001/play/a08z/index.m3u8
 http://160.20.164.171:8001/play/a00l/index.m3u8
 #EXTINF:-1 ,Canal Estrellas
 http://160.20.164.171:8001/play/a054/index.m3u8
-#EXTINF:-1 ,Caracol
-http://160.20.164.171:8001/play/a00a/index.m3u8
+EXTINF:-1,CARACOL HD 2
+http://201.219.223.101:46000/play/a02i
+#EXTINF:-1,CARACOL TV HD
+http://201.219.223.101:46000/play/a02h
+#EXTINF:-1,Canal Caracol
+http://201.219.223.101:46000/play/a036
+#EXTINF:-1,Canal RCN
+http://201.219.223.101:46000/play/a037
 #EXTINF:-1 ,Cartoon Network
 http://160.20.164.171:8001/play/a003/index.m3u8
 #EXTINF:-1 ,Cartoonito
@@ -225,8 +231,6 @@ http://160.20.164.171:8001/play/a017/index.m3u8
 http://160.20.164.171:8001/play/a074/index.m3u8
 #EXTINF:-1 ,RCN - GUA
 http://160.20.164.171:8001/play/a035/index.m3u8
-#EXTINF:-1 ,RCN
-http://160.20.164.171:8001/play/a052/index.m3u8
 #EXTINF:-1 ,RCN Novelas
 http://160.20.164.171:8001/play/a02t/index.m3u8
 #EXTINF:-1 ,RTS
@@ -235,8 +239,8 @@ http://160.20.164.171:8001/play/a04f/index.m3u8
 http://160.20.164.171:8001/play/a07r/index.m3u8
 #EXTINF:-1 ,Sembrador
 http://160.20.164.171:8001/play/a033/index.m3u8
-#EXTINF:-1 ,Senal Colombia
-http://160.20.164.171:8001/play/a05b/index.m3u8
+##EXTINF:-1,SEÑALCOLOMBIA
+http://201.219.223.101:46000/play/a02o
 #EXTINF:-1 ,Sextreme
 http://160.20.164.171:8001/play/a028/index.m3u8
 #EXTINF:-1 ,Sony
