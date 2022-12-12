@@ -321,6 +321,8 @@ http://160.20.164.171:8001/play/a02p/index.m3u8
 http://160.20.164.171:8001/play/a02n/index.m3u8
 #EXTINF:-1 ,Televida RD
 http://160.20.164.171:8001/play/a06w/index.m3u8
+#EXTINF:-1 ,Tigo Sports HD
+http://190.61.102.67:444/play/a05x
 #EXTINF:-1 ,TLC
 http://160.20.164.171:8001/play/a077/index.m3u8
 #EXTINF:-1 ,TNT HD
