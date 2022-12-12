@@ -67,6 +67,8 @@ http://160.20.164.171:8001/play/a02b/index.m3u8
 http://201.219.223.101:46000/play/a026
 #EXTINF:-1 ,Claro Sports
 http://190.61.102.67:31589/play/a053/index.m3u8
+#EXTINF:-1 ,Claro Sports 2 HD
+http://190.61.102.67:444/play/a012
 #EXTINF:-1 ,CNNE
 http://160.20.164.171:8001/play/a090/index.m3u8
 #EXTINF:-1 ,Comedy Central HD
@@ -139,6 +141,10 @@ http://160.20.164.171:8001/play/a04t/index.m3u8
 http://160.20.164.171:8001/play/a00y/index.m3u8
 #EXTINF:-1 ,EWTN
 http://160.20.164.171:8001/play/a01n/index.m3u8
+#EXTINF:-1 ,EURO Channel
+http://190.61.102.67:444/play/a020
+#EXTINF:-1 ,Europa HD
+http://190.61.102.67:444/play/a04v
 #EXTINF:-1 ,Film & arts HD
 http://160.20.164.171:8001/play/a01t/index.m3u8
 #EXTINF:-1 ,Fox Sports 2
