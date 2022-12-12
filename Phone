@@ -65,6 +65,8 @@ http://160.20.164.171:8001/play/a047/index.m3u8
 http://160.20.164.171:8001/play/a02b/index.m3u8
 #EXTINF:-1 ,Claro Cinema
 http://201.219.223.101:46000/play/a026
+#EXTINF:-1 ,Claro Sports
+http://190.61.102.67:31589/play/a053/index.m3u8
 #EXTINF:-1 ,CNNE
 http://160.20.164.171:8001/play/a090/index.m3u8
 #EXTINF:-1 ,Comedy Central HD
