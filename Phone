@@ -205,6 +205,8 @@ http://160.20.164.171:8001/play/a02x/index.m3u8
 http://160.20.164.171:8001/play/a03y/index.m3u8
 #EXTINF:-1 ,LIFE TIME
 http://160.20.164.171:8001/play/a00f/index.m3u8
+#EXTINF:-1 ,Mas Chic
+http://190.61.102.67:444/play/a00a
 #EXTINF:-1 ,MTV 00s HD
 http://160.20.164.171:8001/play/a01k/index.m3u8
 #EXTINF:-1 ,MTV 80s
