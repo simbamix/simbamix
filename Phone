@@ -55,6 +55,8 @@ http://160.20.164.171:8001/play/a07b/index.m3u8
 http://160.20.164.171:8001/play/a047/index.m3u8
 #EXTINF:-1 ,CineMax
 http://160.20.164.171:8001/play/a02b/index.m3u8
+#EXTINF:-1,Claro Cinema
+http://201.219.223.101:46000/play/a026
 #EXTINF:-1 ,CNNE
 http://160.20.164.171:8001/play/a090/index.m3u8
 #EXTINF:-1 ,Comedy Central HD
@@ -179,6 +181,8 @@ http://160.20.164.171:8001/play/a01h/index.m3u8
 http://160.20.164.171:8001/play/a01g/index.m3u8
 #EXTINF:-1 ,Home Garden Latino
 http://160.20.164.171:8001/play/a03q/index.m3u8
+#EXTINF:-1,I-Sat
+http://201.219.223.101:46000/play/a009
 #EXTINF:-1 ,Latin America Sport
 http://160.20.164.171:8001/play/a02x/index.m3u8
 #EXTINF:-1 ,Latina HD
@@ -227,10 +231,16 @@ http://160.20.164.171:8001/play/a013/index.m3u8
 http://160.20.164.171:8001/play/a017/index.m3u8
 #EXTINF:-1 ,Playboy
 http://160.20.164.171:8001/play/a074/index.m3u8
+#EXTINF:-1,RCN HD
+http://201.219.223.101:46000/play/a02x
+#EXTINF:-1,RCN HD 2
+http://201.219.223.101:46000/play/a02y
 #EXTINF:-1 ,RCN - GUA
 http://160.20.164.171:8001/play/a035/index.m3u8
 #EXTINF:-1 ,RCN Novelas
 http://160.20.164.171:8001/play/a02t/index.m3u8
+#EXTINF:-1,RCN Novelas HD
+http://201.219.223.101:46000/play/a040
 #EXTINF:-1 ,RTS
 http://160.20.164.171:8001/play/a04f/index.m3u8
 #EXTINF:-1 ,RTU
@@ -303,12 +313,14 @@ http://160.20.164.171:8001/play/a008/index.m3u8
 http://160.20.164.171:8001/play/a07u/index.m3u8
 #EXTINF:-1 ,TVChile
 http://160.20.164.171:8001/play/a03p/index.m3u8
-#EXTINF:-1 ,Tv Perú
-http://160.20.164.171:8001/play/a09g/index.m3u8
+#EXTINF:-1 ,TVE
+http://201.219.223.101:46000/play/a00k
 #EXTINF:-1 ,TyC
 http://160.20.164.171:8001/play/a051/index.m3u8
 #EXTINF:-1 ,Universal
 http://160.20.164.171:8001/play/a029/index.m3u8
+#EXTINF:-1 ,Universal Cinema
+http://201.219.223.101:46000/play/a017
 #EXTINF:-1 ,UNIVERSAL COMEDY
 http://160.20.164.171:8001/play/a032/index.m3u8
 #EXTINF:-1 ,UNIVERSAL CRIME
@@ -321,3 +333,5 @@ http://160.20.164.171:8001/play/a018/index.m3u8
 http://160.20.164.171:8001/play/a034/index.m3u8
 #EXTINF:-1 ,WARNER HD
 http://160.20.164.171:8001/play/a079/index.m3u8
+EXTINF:-1,Win
+http://201.219.223.101:46000/play/a022
