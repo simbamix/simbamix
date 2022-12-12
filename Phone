@@ -15,6 +15,10 @@ http://160.20.164.171:8001/play/a037/index.m3u8
 http://160.20.164.171:8001/play/a049/index.m3u8
 #EXTINF:-1 ,AXN
 http://160.20.164.171:8001/play/a03d/index.m3u8
+#EXTINF:-1 ,Azteca Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+#EXTINF:-1 ,Azteca Siete
+http://190.61.102.67:31589/play/a00i/index.m3u8
 #EXTINF:-1 ,AZ click HD
 http://160.20.164.171:8001/play/a094/index.m3u8
 #EXTINF:-1 ,Azcorazon
@@ -27,15 +31,17 @@ http://160.20.164.171:8001/play/a02r/index.m3u8
 http://160.20.164.171:8001/play/a08z/index.m3u8
 #EXTINF:-1 ,BBC World
 http://160.20.164.171:8001/play/a00l/index.m3u8
-#EXTINF:-1 ,Canal Estrellas
+#EXTINF:-1 ,Canal De Las Estrellas
 http://160.20.164.171:8001/play/a054/index.m3u8
-#EXTINF:-1,CARACOL HD 2
+#EXTINF:-1 ,CANAL DE LAS ESTRELLAS Mx
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:-1 ,CARACOL HD 2
 http://201.219.223.101:46000/play/a02i
-#EXTINF:-1,CARACOL TV HD
+#EXTINF:-1 ,CARACOL TV HD
 http://201.219.223.101:46000/play/a02h
-#EXTINF:-1,Canal Caracol
+#EXTINF:-1 ,Canal Caracol
 http://201.219.223.101:46000/play/a036
-#EXTINF:-1,Canal RCN
+#EXTINF:-1 ,Canal RCN
 http://201.219.223.101:46000/play/a037
 #EXTINF:-1 ,Cartoon Network
 http://160.20.164.171:8001/play/a003/index.m3u8
@@ -45,6 +51,8 @@ http://160.20.164.171:8001/play/a005/index.m3u8
 http://160.20.164.171:8001/play/a007/index.m3u8
 #EXTINF:-1 ,CDN2- RD
 http://160.20.164.171:8001/play/a02m/index.m3u8
+#EXTINF:-1 ,Cinco
+http://190.61.102.67:31589/play/a038/index.m3u8
 #EXTINF:-1 ,Cine Latino
 http://160.20.164.171:8001/play/a02a/index.m3u8
 #EXTINF:-1 ,CineCanal
@@ -55,7 +63,7 @@ http://160.20.164.171:8001/play/a07b/index.m3u8
 http://160.20.164.171:8001/play/a047/index.m3u8
 #EXTINF:-1 ,CineMax
 http://160.20.164.171:8001/play/a02b/index.m3u8
-#EXTINF:-1,Claro Cinema
+#EXTINF:-1 ,Claro Cinema
 http://201.219.223.101:46000/play/a026
 #EXTINF:-1 ,CNNE
 http://160.20.164.171:8001/play/a090/index.m3u8
