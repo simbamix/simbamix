@@ -229,6 +229,8 @@ http://160.20.164.171:8001/play/a004/index.m3u8
 http://160.20.164.171:8001/play/a01c/index.m3u8
 #EXTINF:-1 ,Nickelodeon
 http://160.20.164.171:8001/play/a023/index.m3u8
+#EXTINF:-1 ,Nick Music
+http://190.61.102.67:31589/play/a00r/index.m3u8
 #EXTINF:-1 ,OROMARTV
 http://160.20.164.171:8001/play/a07t/index.m3u8
 #EXTINF:-1 ,Panamericana
