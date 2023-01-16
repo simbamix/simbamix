@@ -117,6 +117,8 @@ http://160.20.164.171:8001/play/a006/index.m3u8
 http://160.20.164.171:8001/play/a04w/index.m3u8
 #EXTINF:-1 ,E! Entertairment HD
 http://160.20.164.171:8001/play/a01s/index.m3u8
+#EXTINF:-1 ,DSPORT
+http://138.185.15.250:8000/play/a085/index.m3u8
 #EXTINF:-1 ,Ecuador TV
 http://160.20.164.171:8001/play/a09i/index.m3u8
 #EXTINF:-1 ,Ecuavisa
