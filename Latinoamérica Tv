@@ -55,10 +55,6 @@ http://181.78.19.36:45000/play/a01h/index.m3u8
 http://181.78.19.36:45000/play/a01e/index.m3u8
 #EXTINF:-1,Distrito Comedia
 http://45.163.205.98:8000/play/a0pd/index.m3u8
-#EXTINF:-1,Ecuador TV
-http://45.163.205.98:8000/play/a0pm/index.m3u8
-#EXTINF:-1,Ecuavisa
-http://45.163.205.98:8000/play/a0pl/index.m3u8
 #EXTINF:-1,E Entertainment
 http://181.78.19.36:45000/play/a01l/index.m3u8
 #EXTINF:-1,ESPN
@@ -81,8 +77,6 @@ http://181.78.19.36:45000/play/a00y/index.m3u8
 http://181.78.19.36:45000/play/a01s/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://181.78.19.36:45000/play/a01t/index.m3u8
-#EXTINF:-1,Gamavisiðn
-http://45.163.205.98:8000/play/a0pk/index.m3u8
 #EXTINF:-1,GolTV HD
 http://45.163.205.98:8000/play/a0q0/index.m3u8
 #EXTINF:-1,Golden HD
@@ -125,10 +119,6 @@ http://181.78.19.36:45000/play/a001/index.m3u8
 http://45.163.205.98:8000/play/a0pj/index.m3u8
 #EXTINF:-1,RCN Novelas
 http://181.78.19.36:45000/play/a01v/index.m3u8
-#EXTINF:-1,RTS
-http://45.163.205.98:8000/play/a0pe/index.m3u8
-#EXTINF:-1,RTU
-http://45.163.205.98:8000/play/a0pf/index.m3u8
 #EXTINF:-1,STAR CHANNEL
 http://181.78.19.36:45000/play/a009/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
@@ -143,12 +133,8 @@ http://181.78.19.36:45000/play/a00x/index.m3u8
 http://181.78.19.36:45000/play/a01f/index.m3u8
 #EXTINF:-1,SyFy
 http://181.78.19.36:45000/play/a00f/index.m3u8
-#EXTINF:-1,TC Televisiðn
-http://45.163.205.98:8000/play/a0pg/index.m3u8
 #EXTINF:-1,TLC
 http://181.78.19.36:45000/play/a01q/index.m3u8
-#EXTINF:-1,Teleamazonas
-http://45.163.205.98:8000/play/a0pi/index.m3u8
 #EXTINF:-1,TNT
 http://181.78.19.36:45000/play/a00b/index.m3u8
 #EXTINF:-1,TRO
@@ -169,8 +155,6 @@ http://181.78.19.36:45000/play/a011/index.m3u8
 http://45.163.205.98:8000/play/a0px/index.m3u8
 #EXTINF:-1,Telesur
 http://45.163.205.98:8000/play/a0q3/index.m3u8
-#EXTINF:-1,Televicentro
-http://45.163.205.98:8000/play/a0pb/index.m3u8
 #EXTINF:-1,Tru TV
 http://45.163.205.98:8000/play/a0qf/index.m3u8
 #EXTINF:-1,Trece
