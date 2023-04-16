@@ -1,0 +1,204 @@
+#EXTM3U
+#EXTINF:-1, Andalucía Tv ES *ID=14*
+http://45.141.194.9:9000/play/a028/index.m3u8
+#EXTINF:-1, Boing ES *ID=32*
+http://45.141.194.9:9000/play/a01z/index.m3u8
+#EXTINF:-1, Clan ES HD *ID=34*
+http://45.141.194.9:9000/play/a020/index.m3u8
+#EXTINF:-1, Discovery Channel HD ES *ID=1682*
+http://45.141.194.9:9000/play/a021/index.m3u8
+#EXTINF:-1, Discovery Max ES *ID=25*
+http://45.141.194.9:9000/play/a022/index.m3u8
+#EXTINF:-1, Divinity ES *ID=23*
+http://45.141.194.9:9000/play/a023/index.m3u8
+#EXTINF:-1, Energy ES *ID=22*
+http://45.141.194.9:9000/play/a024/index.m3u8
+#EXTINF:-1, Esport 3 ES *ID=1696*
+http://45.141.194.9:9000/play/a025/index.m3u8
+#EXTINF:-1, Iberalia Pesca HD ES *ID=1705*
+http://45.141.194.9:9000/play/a001/index.m3u8
+#EXTINF:-1, Intereconomia ES *ID=1700*
+http://45.141.194.9:9000/play/a002/index.m3u8
+#EXTINF:-1, Nova ES *ID=20*
+http://45.141.194.9:9000/play/a003/index.m3u8
+#EXTINF:-1, Paramount Channel ES *ID=36*
+http://45.141.194.9:9000/play/a004/index.m3u8
+#EXTINF:-1,13 TV ES *ID=21*
+http://45.141.194.9:9000/play/a005/index.m3u8
+#EXTINF:-1,7RM HD *ID=1691*
+http://45.141.194.9:9000/play/a01l/index.m3u8
+#EXTINF:-1,8 Madrid ES *ID=1690*
+http://45.141.194.9:9000/play/a027/index.m3u8
+#EXTINF:-1,AMC HD ES *ID=1058*
+http://45.141.194.9:9000/play/a01y/index.m3u8
+#EXTINF:-1,AXN HD ES *ID=1701*
+http://45.141.194.9:9000/play/a008/index.m3u8
+#EXTINF:-1,AXN White HD ES *ID=1702*
+http://45.141.194.9:9000/play/a01k/index.m3u8
+#EXTINF:-1,Antena 3 HD ES *ID=6*
+http://45.141.194.9:9000/play/a006/index.m3u8
+#EXTINF:-1,Aragon TV ES *ID=1689*
+http://45.141.194.9:9000/play/a029/index.m3u8
+#EXTINF:-1,Atreseries HD ES *ID=1497*
+http://45.141.194.9:9000/play/a007/index.m3u8
+#EXTINF:-1,BOM ES *ID=1674*
+http://45.141.194.9:9000/play/a00d/index.m3u8
+#EXTINF:-1,Baby TV ES *ID=1612*
+http://45.141.194.9:9000/play/a009/index.m3u8
+#EXTINF:-1,Barca TV ES *ID=1630*
+http://45.141.194.9:9000/play/a00a/index.m3u8
+#EXTINF:-1,Be Mad TV ES *ID=1496*
+http://45.141.194.9:9000/play/a00b/index.m3u8
+#EXTINF:-1,Blaze ES *ID=29*
+http://45.141.194.9:9000/play/a00c/index.m3u8
+#EXTINF:-1,C.I. ES *ID=1679*
+http://45.141.194.9:9000/play/a00e/index.m3u8
+#EXTINF:-1,Calle 13 ES *ID=1632*
+http://45.141.194.9:9000/play/a00f/index.m3u8
+#EXTINF:-1,Canal 24 Horas ES *ID=18*
+http://45.141.194.9:9000/play/a00g/index.m3u8
+#EXTINF:-1,Canal Luz ES *ID=1710*
+http://45.141.194.9:9000/play/a02a/index.m3u8
+#EXTINF:-1,Canal Sur 2 ES *ID=13*
+http://45.141.194.9:9000/play/a02b/index.m3u8
+#EXTINF:-1,Canal Sur HD ES *ID=12*
+http://45.141.194.9:9000/play/a00h/index.m3u8
+#EXTINF:-1,Canal Sur Huelva HD ES
+http://45.141.194.9:9000/play/a02c/index.m3u8
+#EXTINF:-1,Canalcosta ES
+http://45.141.194.9:9000/play/a02d/index.m3u8
+#EXTINF:-1,Castilla la Mancha HD ES
+http://45.141.194.9:9000/play/a031/index.m3u8
+#EXTINF:-1,Cine Feel Good Verdi TV ES
+http://45.141.194.9:9000/play/a02e/index.m3u8
+#EXTINF:-1,Cines Verdi TV ES
+http://45.141.194.9:9000/play/a02f/index.m3u8
+#EXTINF:-1,Cocina 4K ES
+http://45.141.194.9:9000/play/a02z/index.m3u8
+#EXTINF:-1,Cocina HD ES *ID=26*
+http://45.141.194.9:9000/play/a00i/index.m3u8
+#EXTINF:-1,Comedy Central ES *ID=1627*
+http://45.141.194.9:9000/play/a02g/index.m3u8
+#EXTINF:-1,Cosmopolitan ES *ID=1567*
+http://45.141.194.9:9000/play/a00j/index.m3u8
+#EXTINF:-1,Cuatro HD ES *ID=16*
+http://45.141.194.9:9000/play/a01j/index.m3u8
+#EXTINF:-1,DKISS ES *ID=1439*
+http://45.141.194.9:9000/play/a00o/index.m3u8
+#EXTINF:-1,Dark ES *ID=1579*
+http://45.141.194.9:9000/play/a00k/index.m3u8
+#EXTINF:-1,De Casa 4K ES
+http://45.141.194.9:9000/play/a02y/index.m3u8
+#EXTINF:-1,DeCasa HD ES *ID=17*
+http://45.141.194.9:9000/play/a00l/index.m3u8
+#EXTINF:-1,Disney Channel ES *ID=33*
+http://45.141.194.9:9000/play/a00m/index.m3u8
+#EXTINF:-1,Disney Junior ES *ID=1610*
+http://45.141.194.9:9000/play/a00n/index.m3u8
+#EXTINF:-1,Dviaje ES
+http://45.141.194.9:9000/play/a02h/index.m3u8
+#EXTINF:-1,Eurosport 1 HD ES *ID=1683*
+http://45.141.194.9:9000/play/a00p/index.m3u8
+#EXTINF:-1,Eurosport 2 HD ES *ID=1684*
+http://45.141.194.9:9000/play/a00q/index.m3u8
+#EXTINF:-1,Extremadura TV ES *ID=1694*
+http://45.141.194.9:9000/play/a02q/index.m3u8
+#EXTINF:-1,FDF ES *ID=11*
+http://45.141.194.9:9000/play/a00r/index.m3u8
+#EXTINF:-1,FOX HD ES *ID=1035*
+http://45.141.194.9:9000/play/a00t/index.m3u8
+#EXTINF:-1,Fight Time HD ES *ID=1636*
+http://45.141.194.9:9000/play/a00s/index.m3u8
+#EXTINF:-1,Free x
+http://45.141.194.9:9000/play/a035/index.m3u8
+#EXTINF:-1,Frenchlover x
+http://45.141.194.9:9000/play/a034/index.m3u8
+#EXTINF:-1,GOL ES *ID=1443*
+http://45.141.194.9:9000/play/a00u/index.m3u8
+#EXTINF:-1,Galicia TV ES *ID=1695*
+http://45.141.194.9:9000/play/a030/index.m3u8
+#EXTINF:-1,Global Telenovelas ES *ID=1573*
+http://45.141.194.9:9000/play/a02o/index.m3u8
+#EXTINF:-1,HOT 1
+http://45.141.194.9:9000/play/a037/index.m3u8
+#EXTINF:-1,HOT 2
+http://45.141.194.9:9000/play/a038/index.m3u8
+#EXTINF:-1,HOT 3
+http://45.141.194.9:9000/play/a039/index.m3u8
+#EXTINF:-1,HTV Municipal ES
+http://45.141.194.9:9000/play/a02i/index.m3u8
+#EXTINF:-1,Historia HD ES *ID=28*
+http://45.141.194.9:9000/play/a00v/index.m3u8
+#EXTINF:-1,Hollywood HD ES *ID=37*
+http://45.141.194.9:9000/play/a00w/index.m3u8
+#EXTINF:-1,Iberalia Caza HD ES *ID=1704*
+http://45.141.194.9:9000/play/a03b/index.m3u8
+#EXTINF:-1,Iberalia HD ES *ID=1697*
+http://45.141.194.9:9000/play/a00x/index.m3u8
+#EXTINF:-1,La 1 HD ES *ID=4*
+http://45.141.194.9:9000/play/a00y/index.m3u8
+#EXTINF:-1,La 2 HD ES *ID=3*
+http://45.141.194.9:9000/play/a00z/index.m3u8
+#EXTINF:-1,La Otra ES *ID=1686*
+http://45.141.194.9:9000/play/a02j/index.m3u8
+#EXTINF:-1,La Sexta HD ES *ID=5*
+http://45.141.194.9:9000/play/a010/index.m3u8
+#EXTINF:-1,MILF TV
+http://45.141.194.9:9000/play/a033/index.m3u8
+#EXTINF:-1,MTV 00S ES
+http://45.141.194.9:9000/play/a02k/index.m3u8
+#EXTINF:-1,MTV 80s
+http://45.141.194.9:9000/play/a02l/index.m3u8
+#EXTINF:-1,MTV ES *ID=1625*
+http://45.141.194.9:9000/play/a01h/index.m3u8
+#EXTINF:-1,MTV Live HD ES *ID=1619*
+http://45.141.194.9:9000/play/a01n/index.m3u8
+#EXTINF:-1,MTV Rocks ES
+http://45.141.194.9:9000/play/a02m/index.m3u8
+#EXTINF:-1,Mega ES *ID=1437*
+http://45.141.194.9:9000/play/a011/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD ES *ID=1629*
+http://45.141.194.9:9000/play/a012/index.m3u8
+#EXTINF:-1,National Geographic HD ES *ID=1631*
+http://45.141.194.9:9000/play/a01g/index.m3u8
+#EXTINF:-1,Neox ES *ID=31*
+http://45.141.194.9:9000/play/a013/index.m3u8
+#EXTINF:-1,Nick Junior ES *ID=1617*
+http://45.141.194.9:9000/play/a014/index.m3u8
+#EXTINF:-1,Nickelodeon ES *ID=1615*
+http://45.141.194.9:9000/play/a015/index.m3u8
+#EXTINF:-1,Odisea 4K ES
+http://45.141.194.9:9000/play/a02x/index.m3u8
+#EXTINF:-1,Odisea HD ES *ID=27*
+http://45.141.194.9:9000/play/a01m/index.m3u8
+#EXTINF:-1,Panda ES *ID=1580*
+http://45.141.194.9:9000/play/a016/index.m3u8
+#EXTINF:-1,Real Madrid TV ES *ID=1498*
+http://45.141.194.9:9000/play/a017/index.m3u8
+#EXTINF:-1,Somos ES *ID=1581*
+http://45.141.194.9:9000/play/a018/index.m3u8
+#EXTINF:-1,Sundance ES *ID=1582*
+http://45.141.194.9:9000/play/a019/index.m3u8
+#EXTINF:-1,SyFy ES *ID=1633*
+http://45.141.194.9:9000/play/a01a/index.m3u8
+#EXTINF:-1,TCM ES *ID=1626*
+http://45.141.194.9:9000/play/a01b/index.m3u8
+#EXTINF:-1,TEEN TV
+http://45.141.194.9:9000/play/a036/index.m3u8
+#EXTINF:-1,TEN ES *ID=1440*
+http://45.141.194.9:9000/play/a01e/index.m3u8
+#EXTINF:-1,TNT ES *ID=1613*
+http://45.141.194.9:9000/play/a01i/index.m3u8
+#EXTINF:-1,Tdp Sport HD ES *ID=40*
+http://45.141.194.9:9000/play/a01c/index.m3u8
+#EXTINF:-1,Telecinco HD ES *ID=7*
+http://45.141.194.9:9000/play/a02s/index.m3u8
+#EXTINF:-1,Telemadrid HD ES *ID=1685*
+http://45.141.194.9:9000/play/a02n/index.m3u8
+#EXTINF:-1,Telenovelas *ID=1692*
+http://45.141.194.9:9000/play/a02p/index.m3u8
+#EXTINF:-1,Teleonuba Costa ES *ID=1709*
+http://45.141.194.9:9000/play/a01d/index.m3u8
+#EXTINF:-1,XTRM HD ES *ID=39*
+http://45.141.194.9:9000/play/a01f/index.m3u8
+623
