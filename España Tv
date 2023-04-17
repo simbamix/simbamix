@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Andalucía Tv ES *ID=14*
+#EXTINF:-1, Andalucía Tv
 http://45.141.194.9:9000/play/a028/index.m3u8
 #EXTINF:-1, Boing ES *ID=32*
 http://45.141.194.9:9000/play/a01z/index.m3u8
@@ -95,6 +95,8 @@ http://45.141.194.9:9000/play/a00l/index.m3u8
 http://45.141.194.9:9000/play/a00m/index.m3u8
 #EXTINF:-1,Disney Junior ES *ID=1610*
 http://45.141.194.9:9000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Deportes",DAZN La Liga 1 HD
+http://168.228.194.32:58001/play/z002/index.m3u8
 #EXTINF:-1,Dviaje ES
 http://45.141.194.9:9000/play/a02h/index.m3u8
 #EXTINF:-1,Eurosport 1 HD ES *ID=1683*
