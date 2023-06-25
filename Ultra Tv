@@ -39,14 +39,8 @@ http://45.169.99.154:58001/play/a00k/index.m3u8
 http://45.169.99.154:58001/play/a00l/index.m3u8
 #EXTINF:-1,ESPN 4 HD
 http://45.169.99.154:58001/play/a02o/index.m3u8
-#EXTINF:-1,UNIVERSAL REALITY HD
-http://45.169.99.154:58001/play/a00g/index.m3u8
-#EXTINF:-1,UNIVERSAL CINEMA HD
-http://45.169.99.154:58001/play/a00x/index.m3u8
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://45.169.99.154:58001/play/a00h/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIER HD
-http://45.169.99.154:58001/play/a00f/index.m3u8
+#EXTINF:-1,EUROPA Europa HD
+http://45.169.99.154:58001/play/a018/index.m3u8
 #EXTINF:-1,FOX SPORTS 2 HD
 http://45.169.99.154:58001/play/a006/index.m3u8
 #EXTINF:-1,FOX SPORTS 3 HD
@@ -55,8 +49,6 @@ http://45.169.99.154:58001/play/a00n/index.m3u8
 http://45.169.99.154:58001/play/a00e/index.m3u8
 #EXTINF:-1,FX HD
 http://45.169.99.154:58001/play/a017/index.m3u8
-#EXTINF:-1,FX Movies HD
-http://45.169.99.154:58001/play/a019/index.m3u8
 #EXTINF:-1,Film & arts HD
 http://45.169.99.154:58001/play/a013/index.m3u8
 #EXTINF:-1,Golden Premiere 2 HD
@@ -73,6 +65,8 @@ http://45.169.99.154:58001/play/a01m/index.m3u8
 http://45.169.99.154:58001/play/a01o/index.m3u8
 #EXTINF:-1,HBO2 HD
 http://45.169.99.154:58001/play/a01n/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://45.169.99.154:58001/play/a01q/index.m3u8
 #EXTINF:-1,HOLA! TV HD
 http://45.169.99.154:58001/play/a00a/index.m3u8
 #EXTINF:-1,History HD
@@ -83,8 +77,8 @@ http://45.169.99.154:58001/play/a009/index.m3u8
 http://45.169.99.154:58001/play/a02h/index.m3u8
 #EXTINF:-1,MTV SIM HD
 http://45.169.99.154:58001/play/a00c/index.m3u8
-#EXTINF:-1,Max Prime HD
-http://45.169.99.154:58001/play/a01q/index.m3u8
+#EXTINF:-1,MTV 00s HD
+http://45.169.99.154:58001/play/a00d/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://45.169.99.154:58001/play/a00o/index.m3u8
 #EXTINF:-1,Nick SIM HD
@@ -97,6 +91,8 @@ http://45.169.99.154:58001/play/a00u/index.m3u8
 http://45.169.99.154:58001/play/a01r/index.m3u8
 #EXTINF:-1,SONY HD
 http://45.169.99.154:58001/play/a02l/index.m3u8
+#EXTINF:-1,SONY Movies HD
+http://45.169.99.154:58001/play/a019/index.m3u8
 #EXTINF:-1,SPACE HD
 http://45.169.99.154:58001/play/a02q/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
@@ -105,8 +101,6 @@ http://45.169.99.154:58001/play/a02j/index.m3u8
 http://45.169.99.154:58001/play/a01c/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://45.169.99.154:58001/play/a00z/index.m3u8
-#EXTINF:-1,Sundance Channel HD
-http://45.169.99.154:58001/play/a018/index.m3u8
 #EXTINF:-1,SyFy
 http://45.169.99.154:58001/play/a02r/index.m3u8
 #EXTINF:-1,TNT HD
@@ -127,9 +121,15 @@ http://45.169.99.154:58001/play/a01v/index.m3u8
 http://45.169.99.154:58001/play/a01w/index.m3u8
 #EXTINF:-1,UNIVERSAL REALITY HD
 http://45.169.99.154:58001/play/a01x/index.m3u8
-#EXTINF:-1,Unicable HD
+#EXTINF:-1,UNIVERSAL REALITY HD
+http://45.169.99.154:58001/play/a00g/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA HD
+http://45.169.99.154:58001/play/a00x/index.m3u8
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://45.169.99.154:58001/play/a00h/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIER HD
+http://45.169.99.154:58001/play/a00f/index.m3u8
+#EXTINF:-1,Univision HD
 http://45.169.99.154:58001/play/a00v/index.m3u8
-#EXTINF:-1,VH1 HD
-http://45.169.99.154:58001/play/a00d/index.m3u8
 #EXTINF:-1,WARNER HD
 http://45.169.99.154:58001/play/a02k/index.m3u8
