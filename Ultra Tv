@@ -39,13 +39,13 @@ http://45.169.99.154:58001/play/a00k/index.m3u8
 http://45.169.99.154:58001/play/a00l/index.m3u8
 #EXTINF:-1,ESPN 4 HD
 http://45.169.99.154:58001/play/a02o/index.m3u8
-#EXTINF:-1,FOX Action HD
+#EXTINF:-1,UNIVERSAL REALITY HD
 http://45.169.99.154:58001/play/a00g/index.m3u8
-#EXTINF:-1,FOX Comedy HD
+#EXTINF:-1,UNIVERSAL CINEMA HD
 http://45.169.99.154:58001/play/a00x/index.m3u8
-#EXTINF:-1,FOX Family HD
+#EXTINF:-1,UNIVERSAL CRIME HD
 http://45.169.99.154:58001/play/a00h/index.m3u8
-#EXTINF:-1,FOX Movies HD
+#EXTINF:-1,UNIVERSAL PREMIER HD
 http://45.169.99.154:58001/play/a00f/index.m3u8
 #EXTINF:-1,FOX SPORTS 2 HD
 http://45.169.99.154:58001/play/a006/index.m3u8
