@@ -1,109 +1,299 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
-http://806835487371321276.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321276.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 HD
-http://806835487371321277.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321277.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES: LA 1 SD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 SD
-http://806835487371321278.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321278.ts
-#EXTINF:-1 tvg-id="La 2" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 FHD
-http://806835487371321279.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321279.ts
-#EXTINF:-1 tvg-id="La 2" tvg-name="ES: LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 HD
-http://806835487371321280.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321280.ts
-#EXTINF:-1 tvg-id="La 2" tvg-name="ES: LA 2 SD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 SD
-http://806835487371321281.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321281.ts
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 FHD
-http://806835487371321105.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321105.ts
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 HD
-http://806835487371321106.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321106.ts
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ES: ANTENA 3 SD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 SD
-http://806835487371321107.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321107.ts
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="ES: TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO FHD
-http://806835487371321429.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321429.ts
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="ES: TELECINCO HD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO HD
-http://806835487371321430.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321430.ts
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="ES: TELECINCO SD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO SD
-http://806835487371321431.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321431.ts
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ES: CUATRO FHD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO FHD
-http://806835487371321196.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321196.ts
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ES: CUATRO HD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO HD
-http://806835487371321197.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321197.ts
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ES: CUATRO SD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO SD
-http://806835487371321198.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321198.ts
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="ES: BABY TV SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BABY" group-title="ES   MOVISTAR+",ES: BABY TV SD
-http://806835487371321122.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321122.ts
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC FHD" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="ES   MOVISTAR+",ES: AMC FHD
-http://806835487371321102.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321102.ts
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC HD" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="ES   MOVISTAR+",ES: AMC HD
-http://806835487371321103.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321103.ts
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC SD" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="ES   MOVISTAR+",ES: AMC SD
-http://806835487371321104.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321104.ts
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="ES: M+ ORIGINALES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES FHD
-http://806835487371321068.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321068.ts
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="ES: M+ ORIGINALES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES HD
-http://806835487371321069.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321069.ts
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="ES: M+ ORIGINALES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES SD
-http://806835487371321070.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321070.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES DEPORTES",ES: #VAMOS HD
-http://806835487371321072.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321072.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES DEPORTES",ES: #VAMOS SD
-http://806835487371321073.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/321073.ts
-#EXTINF:-1 tvg-id="0" tvg-name="ES: DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 SD
-http://806835487371165257.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/165257.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD
-http://806835487371246282.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/246282.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES HD
-http://806835487371165358.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/165358.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES SD
-http://806835487371165359.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/165359.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD HEVC
-http://806835487371262412.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/262412.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 FHD
-http://806835487371165365.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/165365.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 HD
-http://806835487371282469.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282469.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 SD
-http://806835487371282458.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282458.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 3 HD
-http://806835487371282470.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282470.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 3 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 3 HD (OP1)
-http://806835487371282471.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282471.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4 HD
-http://806835487371282472.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282472.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4 HD (OP1)
-http://806835487371282473.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282473.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 5 HD
-http://806835487371282460.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282460.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 5 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 5 HD (OP1)
-http://806835487371282461.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282461.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 6 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 6 HD
-http://806835487371282462.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282462.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 6 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 6 HD (OP1)
-http://806835487371282463.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282463.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 7 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 7 HD
-http://806835487371282464.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282464.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 7 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 7 HD (OP1)
-http://806835487371282465.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282465.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 8 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 8 HD
-http://806835487371282466.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/282466.ts
-#EXTINF:-1 tvg-id="0" tvg-name="ES: DAZN FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 FHD
-http://806835487371165418.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/165418.ts
-#EXTINF:-1 tvg-id="0" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 HD
-http://806835487371165419.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/165419.ts
-#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA FHD
-http://806835487371165385.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/165385.ts
-#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA HD
-http://806835487371165392.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/165392.ts
-#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA SD
-http://806835487371165393.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/165393.ts
-#EXTINF:-1 tvg-id="0" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: LA LIGA FHD (H 265)
-http://806835487371262413.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/262413.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA 2 HD
-http://806835487371165398.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/165398.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA 3 HD
-http://806835487371165400.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/165400.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1 SD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES  DAZN",ES: M+ DAZN 1 SD
-http://806835487371228384.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/228384.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1 HD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES  DAZN",ES: M+ DAZN 1 HD
-http://806835487371228385.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/228385.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 2 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="ES  DAZN",ES: M+ DAZN 2 HD
-http://806835487371228388.ofe0229.xyz:80/play/mi606901/DHRa6dYWwYX/228388.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="MUNDIAL",TELEAMAZONAS 2
+http://redima.pro:8880/MOREIRAL/9512/682
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT + EC" tvg-logo="" group-title="DEPORTE",DIRECTV SPORT + EC
+http://redima.pro:8880/MOREIRAL/9512/685
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINE",HBO POP
+http://redima.pro:8880/MOREIRAL/9512/333
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="CINE",HBO
+http://redima.pro:8880/MOREIRAL/9512/334
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="CINE",HBO 2
+http://redima.pro:8880/MOREIRAL/9512/335
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CINE",HBO FAMILY
+http://redima.pro:8880/MOREIRAL/9512/336
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="CINE",HBO HD
+http://redima.pro:8880/MOREIRAL/9512/337
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUT" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="CINE",PARAMOUT
+http://redima.pro:8880/MOREIRAL/9512/338
+#EXTINF:-1 tvg-id="" tvg-name="││COMEDIA HD││  STAR COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/135px-Star_Comedy_2020.svg.png" group-title="CINE",││COMEDIA HD││  STAR COMEDY
+http://redima.pro:8880/MOREIRAL/9512/339
+#EXTINF:-1 tvg-id="" tvg-name="START ACCTION" tvg-logo="https://futbolfullenvivo.com/logos/star-action.png" group-title="CINE",START ACCTION
+http://redima.pro:8880/MOREIRAL/9512/340
+#EXTINF:-1 tvg-id="" tvg-name="START FUN" tvg-logo="https://cdn.mitvstatic.com/channels/py_fox-family-hd_m.png" group-title="CINE",START FUN
+http://redima.pro:8880/MOREIRAL/9512/341
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CINE",STAR CHANNEL
+http://redima.pro:8880/MOREIRAL/9512/342
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CINE",STAR CHANNEL
+http://redima.pro:8880/MOREIRAL/9512/343
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 1" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="CINE",CINE PPV LATINOS l 1
+http://redima.pro:8880/MOREIRAL/9512/347
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUT HD" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="CINE",PARAMOUT HD
+http://redima.pro:8880/MOREIRAL/9512/349
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://seeklogo.com/images/A/axn-2015-logo-FA60668D48-seeklogo.com.png" group-title="CINE",AXN
+http://redima.pro:8880/MOREIRAL/9512/350
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg" group-title="CINE",UNIVERSAL CINEMA HD
+http://redima.pro:8880/MOREIRAL/9512/351
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg" group-title="CINE",UNIVERSAL PREMIERE HD
+http://redima.pro:8880/MOREIRAL/9512/352
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title="CINE",UNIVERSAL
+http://redima.pro:8880/MOREIRAL/9512/354
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://w7.pngwing.com/pngs/486/196/png-transparent-warner-bros-studio-tour-hollywood-logo-business-production-companies-business-television-emblem-people-thumbnail.png" group-title="CINE",WARNER CHANNEL
+http://redima.pro:8880/MOREIRAL/9512/355
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE",SONY
+http://redima.pro:8880/MOREIRAL/9512/356
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png" group-title="CINE",A&E
+http://redima.pro:8880/MOREIRAL/9512/357
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="CINE",TBS
+http://redima.pro:8880/MOREIRAL/9512/358
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="CINE",TBS
+http://redima.pro:8880/MOREIRAL/9512/359
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE" tvg-logo="https://uspto.report/TM/90480911/mark.png" group-title="CINE",STAR LIFE
+http://redima.pro:8880/MOREIRAL/9512/360
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="" group-title="CINE",WARNER CHANNEL
+http://redima.pro:8880/MOREIRAL/9512/361
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE",TNT SERIES
+http://redima.pro:8880/MOREIRAL/9512/362
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE",TNT SERIES
+http://redima.pro:8880/MOREIRAL/9512/363
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CINE",TNT
+http://redima.pro:8880/MOREIRAL/9512/364
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CINE",TNT
+http://redima.pro:8880/MOREIRAL/9512/365
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="CINE",FXM
+http://redima.pro:8880/MOREIRAL/9512/366
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="CINE",FXM
+http://redima.pro:8880/MOREIRAL/9512/367
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE",CINECANAL
+http://redima.pro:8880/MOREIRAL/9512/368
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/250px-Marvel_Logo.svg.png" group-title="CINE",MARVEL
+http://redima.pro:8880/MOREIRAL/9512/369
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="CINE",TCM
+http://redima.pro:8880/MOREIRAL/9512/370
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="CINE",TCM
+http://redima.pro:8880/MOREIRAL/9512/371
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="CINE",GOLDEN
+http://redima.pro:8880/MOREIRAL/9512/372
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="CINE",GOLDEN
+http://redima.pro:8880/MOREIRAL/9512/373
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE",GOLDEN EDGE
+http://redima.pro:8880/MOREIRAL/9512/374
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE",GOLDEN EDGE
+http://redima.pro:8880/MOREIRAL/9512/375
+#EXTINF:-1 tvg-id="" tvg-name="DPELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="CINE",DPELICULAS
+http://redima.pro:8880/MOREIRAL/9512/376
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG" group-title="CINE",SPACE
+http://redima.pro:8880/MOREIRAL/9512/377
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG" group-title="CINE",SPACE
+http://redima.pro:8880/MOREIRAL/9512/378
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="CINE",MULTIPREMIER
+http://redima.pro:8880/MOREIRAL/9512/379
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="CINE",MULTIPREMIER
+http://redima.pro:8880/MOREIRAL/9512/380
+#EXTINF:-1 tvg-id="" tvg-name="MULTICINE" tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png" group-title="CINE",MULTICINE
+http://redima.pro:8880/MOREIRAL/9512/381
+#EXTINF:-1 tvg-id="" tvg-name="LATINA" tvg-logo="https://seeklogo.com/images/L/latina-canal-2-logo-DE5F04A987-seeklogo.com.png" group-title="CINE",LATINA
+http://redima.pro:8880/MOREIRAL/9512/383
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://seeklogo.com/images/A/amc-logo-33DED15376-seeklogo.com.png" group-title="CINE",AMC
+http://redima.pro:8880/MOREIRAL/9512/384
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="CINE",CINEMAX
+http://redima.pro:8880/MOREIRAL/9512/385
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE",HBO2 HD
+http://redima.pro:8880/MOREIRAL/9512/386
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK
+http://redima.pro:8880/MOREIRAL/9512/388
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││INFANTIL BABY TV HD" tvg-logo="https://static.epg.best/es/BabyTV.es.png" group-title="KIDS",││KIDS HD││INFANTIL BABY TV HD
+http://redima.pro:8880/MOREIRAL/9512/389
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://www.babytv.com/app/uploads/2019/12/VideoIcon-round.png" group-title="KIDS",BABY TV
+http://redima.pro:8880/MOREIRAL/9512/390
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="KIDS",DISCOVERY SCIENCE 
+http://redima.pro:8880/MOREIRAL/9512/391
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR HD" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="KIDS",││KIDS││ NICK JR HD
+http://redima.pro:8880/MOREIRAL/9512/392
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://w7.pngwing.com/pngs/806/670/png-transparent-discovery-kids-discovery-channel-television-channel-tlc-axe-logo-miscellaneous-television-text.png" group-title="KIDS",DISCOVERY KIDS HD
+http://redima.pro:8880/MOREIRAL/9512/393
+#EXTINF:-1 tvg-id="" tvg-name="TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png" group-title="KIDS",TeenNick
+http://redima.pro:8880/MOREIRAL/9512/395
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV HD" tvg-logo="https://image.pngaaa.com/717/632717-middle.png" group-title="VARIOS",HOLA TV HD
+http://redima.pro:8880/MOREIRAL/9512/396
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1920px-Cartoonito_-_Logo_2021.svg.png" group-title="KIDS",CARTOONITO
+http://redima.pro:8880/MOREIRAL/9512/397
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="KIDS",DISCOVERY KIDS
+http://redima.pro:8880/MOREIRAL/9512/398
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="KIDS",DISCOVERY KIDS
+http://redima.pro:8880/MOREIRAL/9512/399
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="VARIOS",PASIONES
+http://redima.pro:8880/MOREIRAL/9512/401
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="VARIOS",PASIONES
+http://redima.pro:8880/MOREIRAL/9512/402
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="VARIOS",TELENOVELAS
+http://redima.pro:8880/MOREIRAL/9512/403
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="VARIOS",TELENOVELAS
+http://redima.pro:8880/MOREIRAL/9512/404
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="VARIOS",CANAL DE LAS ESTRELLAS
+http://redima.pro:8880/MOREIRAL/9512/405
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="VARIOS",CANAL DE LAS ESTRELLAS
+http://redima.pro:8880/MOREIRAL/9512/406
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="VARIOS",TELEMUNDO
+http://redima.pro:8880/MOREIRAL/9512/407
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="VARIOS",TELEMUNDO
+http://redima.pro:8880/MOREIRAL/9512/408
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://static1.squarespace.com/static/5510630ae4b0f48d896bc4a5/55122ef1e4b0dbee04c12c49/5a4fb77e0d9297d3c33a6bb4/1515173828374/1384365569092.jpeg?format=1500w" group-title="VARIOS",E!
+http://redima.pro:8880/MOREIRAL/9512/409
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="VARIOS",HISTORY CHANNEL
+http://redima.pro:8880/MOREIRAL/9512/410
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ H2" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="VARIOS",││CULT HD││ H2
+http://redima.pro:8880/MOREIRAL/9512/411
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="VARIOS",HTV
+http://redima.pro:8880/MOREIRAL/9512/413
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELA HD" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" group-title="VARIOS",RCN NOVELA HD
+http://redima.pro:8880/MOREIRAL/9512/414
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS" tvg-logo="https://static.epg.best/mx/TeleNovelas.mx.png" group-title="VARIOS",TLNOVELAS
+http://redima.pro:8880/MOREIRAL/9512/415
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="VARIOS",ANTENA 3
+http://redima.pro:8880/MOREIRAL/9512/418
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="VARIOS",CNN
+http://redima.pro:8880/MOREIRAL/9512/419
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" group-title="VARIOS",NAT GEO WILD
+http://redima.pro:8880/MOREIRAL/9512/420
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL NACIONAL" tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" group-title="VARIOS",CARACOL NACIONAL
+http://redima.pro:8880/MOREIRAL/9512/423
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="VARIOS",DISCOVERY ID
+http://redima.pro:8880/MOREIRAL/9512/424
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="VARIOS",DISCOVERY ID
+http://redima.pro:8880/MOREIRAL/9512/425
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="VARIOS",DISCOVERY CHANNEL
+http://redima.pro:8880/MOREIRAL/9512/426
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="VARIOS",DISCOVERY CHANNEL
+http://redima.pro:8880/MOREIRAL/9512/427
+#EXTINF:-1 tvg-id="" tvg-name="TV AGRO" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png" group-title="VARIOS",TV AGRO
+http://redima.pro:8880/MOREIRAL/9512/429
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="VARIOS",ANIMAL PLANET
+http://redima.pro:8880/MOREIRAL/9512/430
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="VARIOS",ANIMAL PLANET
+http://redima.pro:8880/MOREIRAL/9512/431
+#EXTINF:-1 tvg-id="" tvg-name="H&H DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="VARIOS",H&H DISCOVERY
+http://redima.pro:8880/MOREIRAL/9512/432
+#EXTINF:-1 tvg-id="" tvg-name="H&H DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="VARIOS",H&H DISCOVERY
+http://redima.pro:8880/MOREIRAL/9512/433
+#EXTINF:-1 tvg-id="" tvg-name="H&H DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="VARIOS",H&H DISCOVERY
+http://redima.pro:8880/MOREIRAL/9512/434
+#EXTINF:-1 tvg-id="" tvg-name="H&H DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="VARIOS",H&H DISCOVERY
+http://redima.pro:8880/MOREIRAL/9512/435
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="VARIOS",DISCOVERY WORLD
+http://redima.pro:8880/MOREIRAL/9512/436
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="VARIOS",NAT GEO
+http://redima.pro:8880/MOREIRAL/9512/438
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="VARIOS",NAT GEO
+http://redima.pro:8880/MOREIRAL/9512/439
+#EXTINF:-1 tvg-id="" tvg-name="RUMBA TV" tvg-logo="http://canalrumbatv.com/wp-content/uploads/2020/05/logortv.png" group-title="VARIOS",RUMBA TV
+http://redima.pro:8880/MOREIRAL/9512/440
+#EXTINF:-1 tvg-id="" tvg-name="RUMBA TV" tvg-logo="http://canalrumbatv.com/wp-content/uploads/2020/05/logortv.png" group-title="VARIOS",RUMBA TV
+http://redima.pro:8880/MOREIRAL/9512/441
+#EXTINF:-1 tvg-id="" tvg-name="TELESISTEMA 11" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" group-title="VARIOS",TELESISTEMA 11
+http://redima.pro:8880/MOREIRAL/9512/442
+#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="VARIOS",RT
+http://redima.pro:8880/MOREIRAL/9512/443
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg" group-title="CINE",UNIVERSAL CINEMA HD
+http://redima.pro:8880/MOREIRAL/9512/445
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="VARIOS",TELESUR
+http://redima.pro:8880/MOREIRAL/9512/446
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="VARIOS",DISTRITO COMEDIA
+http://redima.pro:8880/MOREIRAL/9512/587
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT (ARG)" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="DEPORTE",TYC SPORT (ARG)
+http://redima.pro:8880/MOREIRAL/9512/683
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddokk4t-87461def-9faf-45c2-af60-f69382b46d54.png/v1/fill/w_1192,h_670,q_70,strp/hbo_xtreme_logo_by_doublekids07_ddokk4t-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvN2E2YTMxYmMtNTI3Ni00YmQxLWIyNWMtNWQyMjk5OTA2NTFjXC9kZG9razR0LTg3NDYxZGVmLTlmYWYtNDVjMi1hZjYwLWY2OTM4MmI0NmQ1NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5iopmV-9UmS7RvbBIy-o9pE_sOTIkiOTbgePUcwsSXo" group-title="CINE",HBO XTREAM
+http://redima.pro:8880/MOREIRAL/9512/681
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
+http://redima.pro:8880/MOREIRAL/9512/447
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA 2
+http://redima.pro:8880/MOREIRAL/9512/448
+#EXTINF:-1 tvg-id="" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS
+http://redima.pro:8880/MOREIRAL/9512/449
+#EXTINF:-1 tvg-id="" tvg-name="RTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS 2
+http://redima.pro:8880/MOREIRAL/9512/450
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS 1
+http://redima.pro:8880/MOREIRAL/9512/451
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS 2
+http://redima.pro:8880/MOREIRAL/9512/452
+#EXTINF:-1 tvg-id="" tvg-name="TVC" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC
+http://redima.pro:8880/MOREIRAL/9512/453
+#EXTINF:-1 tvg-id="" tvg-name="TVC 2" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC 2
+http://redima.pro:8880/MOREIRAL/9512/454
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR",ECUADOR TV
+http://redima.pro:8880/MOREIRAL/9512/455
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR",ECUADOR TV
+http://redima.pro:8880/MOREIRAL/9512/456
+#EXTINF:-1 tvg-id="" tvg-name="CANELA" tvg-logo="https://image.roku.com/developer_channels/prod/583e3c91ab4f74df8cacbdd7bb811d49d2ded1c54784d4c8d5dff6305820dd67.png" group-title="ECUADOR",CANELA
+http://redima.pro:8880/MOREIRAL/9512/457
+#EXTINF:-1 tvg-id="" tvg-name="CANELA" tvg-logo="https://image.roku.com/developer_channels/prod/583e3c91ab4f74df8cacbdd7bb811d49d2ded1c54784d4c8d5dff6305820dd67.png" group-title="ECUADOR",CANELA
+http://redima.pro:8880/MOREIRAL/9512/458
+#EXTINF:-1 tvg-id="" tvg-name="RTU" tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png" group-title="ECUADOR",RTU
+http://redima.pro:8880/MOREIRAL/9512/459
+#EXTINF:-1 tvg-id="" tvg-name="RTU" tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png" group-title="ECUADOR",RTU
+http://redima.pro:8880/MOREIRAL/9512/460
+#EXTINF:-1 tvg-id="" tvg-name="TC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC
+http://redima.pro:8880/MOREIRAL/9512/461
+#EXTINF:-1 tvg-id="" tvg-name="TC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC 2
+http://redima.pro:8880/MOREIRAL/9512/462
+#EXTINF:-1 tvg-id="" tvg-name="GAMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",GAMA TV
+http://redima.pro:8880/MOREIRAL/9512/463
+#EXTINF:-1 tvg-id="" tvg-name="GAMA TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",GAMA TV 2
+http://redima.pro:8880/MOREIRAL/9512/464
+#EXTINF:-1 tvg-id="" tvg-name="OROMAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",OROMAR
+http://redima.pro:8880/MOREIRAL/9512/465
+#EXTINF:-1 tvg-id="" tvg-name="OROMAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",OROMAR
+http://redima.pro:8880/MOREIRAL/9512/466
+#EXTINF:-1 tvg-id="" tvg-name="ONDA TV" tvg-logo="" group-title="ECUADOR",ONDA TV
+http://redima.pro:8880/MOREIRAL/9512/554
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" group-title="DEPORTE",DEPORTE 1
+http://redima.pro:8880/MOREIRAL/9512/302
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" group-title="DEPORTE",DEPORTE 2
+http://redima.pro:8880/MOREIRAL/9512/301
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" group-title="DEPORTE",DEPORTE 3
+http://redima.pro:8880/MOREIRAL/9512/300
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTE",GOL TV ECU
+http://redima.pro:8880/MOREIRAL/9512/569
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTE",GOL TV 
+http://redima.pro:8880/MOREIRAL/9512/570
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTE",ESPN
+http://redima.pro:8880/MOREIRAL/9512/571
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="DEPORTE",ESPN 3
+http://redima.pro:8880/MOREIRAL/9512/573
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="DEPORTE",ESPN 4
+http://redima.pro:8880/MOREIRAL/9512/574
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://static.epg.best/ar/612DTS2.ar.png" group-title="DEPORTE",DIRECTV SPORTS 2
+http://redima.pro:8880/MOREIRAL/9512/575
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MEXICO +" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="DEPORTE",TUDN MEXICO +
+http://redima.pro:8880/MOREIRAL/9512/579
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MEXICO" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="DEPORTE",TUDN MEXICO
+http://redima.pro:8880/MOREIRAL/9512/578
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="https://static.epg.best/co/DirectvSportsPlus.co.png" group-title="DEPORTE",DIRECTV SPORT
+http://redima.pro:8880/MOREIRAL/9512/576
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/101.png" group-title="DEPORTE",DIRECTV SPORT 2
+http://redima.pro:8880/MOREIRAL/9512/323
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://cdn.mitvstatic.com/channels/co_nba-tv-hd_m.png" group-title="DEPORTE",GOL TV
+http://redima.pro:8880/MOREIRAL/9512/317
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTE",WIN SPORTS  
+http://redima.pro:8880/MOREIRAL/9512/316
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="DEPORTE",TYC SPORTS
+http://redima.pro:8880/MOREIRAL/9512/313
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://pbs.twimg.com/media/EWs-iniWkAAOVOh.jpg" group-title="DEPORTE",ESPN 2
+http://redima.pro:8880/MOREIRAL/9512/312
+#EXTINF:-1 tvg-id="" tvg-name="││EC││CANAL DEL FUTBOL" tvg-logo="https://cnt-media.boxqos.com/consumer/canals/canal-del-futbol/logo/canal-del-futbol-logo.png" group-title="DEPORTE",││EC││CANAL DEL FUTBOL
+http://redima.pro:8880/MOREIRAL/9512/311
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTE",FOX SPORT
+http://redima.pro:8880/MOREIRAL/9512/326
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTE",FOX SPORT 2
+http://redima.pro:8880/MOREIRAL/9512/327
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTE",FOX SPORT 2
+http://redima.pro:8880/MOREIRAL/9512/328
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE",FOX SPORT 3
+http://redima.pro:8880/MOREIRAL/9512/329
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE",FOX SPORT 3
+http://redima.pro:8880/MOREIRAL/9512/330
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_golf-channel-hd_m.png" group-title="DEPORTE",GOLF CHANNEL HD
+http://redima.pro:8880/MOREIRAL/9512/749
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="VARIOS",MTV HD
+http://redima.pro:8880/MOREIRAL/9512/978
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="RESTREAM",WARNER HD
+http://redima.pro:8880/MOREIRAL/9512/1037
