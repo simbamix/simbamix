@@ -39,7 +39,9 @@ http://190.110.111.26:9980/play/a046/index.m3u8
 http://190.110.111.26:9980/play/a0hu/index.m3u8
 #EXTINF:-1,20-ESPN 3
 http://190.110.111.26:9980/play/a06j/index.m3u8
-#EXTINF:-1,21-ESPN 4
+#EXTINF:-1,21-ESPN EXTRA HD
+http://190.110.111.26:9980/play/a0n6/index.m3u8
+#EXTINF:-1,22-ESPN 4
 http://190.110.111.26:9980/play/a0hx/index.m3u8
 #EXTINF:-1,23-Fox Sports 1
 http://190.110.111.26:9980/play/a03n/index.m3u8
@@ -221,9 +223,7 @@ http://190.110.111.26:9980/play/a0ne/index.m3u8
 http://190.110.111.26:9980/play/a0n3/index.m3u8
 #EXTINF:-1,HD-11-TMN
 http://190.110.111.26:9980/play/a0n4/index.m3u8
-#EXTINF:-1,HD-12-ESPN EXTRA HD
-http://190.110.111.26:9980/play/a0n6/index.m3u8
-#EXTINF:-1,HD-13-Kanal D Drama HD
+#EXTINF:-1,HD-12-Kanal D Drama HD
 http://190.110.111.26:9980/play/a0n8/index.m3u8
 #EXTINF:-1,kIDS-TV-GB
 http://190.110.111.26:9980/play/a0oq/index.m3u8
