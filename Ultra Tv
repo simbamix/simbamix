@@ -1,22 +1,1532 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ENTRE | ESTRELLA TV" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ||
-ENTRETENIMIENTO", ENTRE | ESTRELLA TV
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV || ENTRETENIMIENTO",ENTRE | ESTRELLA TV
 http://fivetv.org:25461/live/Eduardo*/Eduardo**/23729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ENTRE | NBC UNIVERSO" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png"
-group-title="TV || ENTRETENIMIENTO",ENTRE | NBC UNIVERSO
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | NBC UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV || ENTRETENIMIENTO",ENTRE | NBC UNIVERSO
 http://fivetv.org:25461/live/Eduardo*/Eduardo**/23730.m3u8
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL (COL)" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-
-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY CHANNEL (COL)
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY CHANNEL (COL)
 http://fivetv.org:25461/live/Eduardo*/Eduardo**/23756.m3u8
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL (MEX)" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-
-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV || DOCUMENTALES", DISCOVERY CHANNEL (MEX)
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL (MEX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY CHANNEL (MEX)
 http://fivetv.org:25461/live/Eduardo*/Eduardo**/23757.m3u8
-#EXTINF:-1 tvg-id="UnivReal"
-Reality.png" group-title="TV || PREMIUM CHANNELS", PREMIUM | UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="UnivReal" tvg-name="PREMIUM | UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/WWjGYg6W/Universal-Reality.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL REALITY
 http://fivetv.org:25461/live/Eduardo*/Eduardo**/23850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | CHUCKY" tvg-logo="https://i.ibb.co/MWVsHKq/chucky.png" group-title="TV
-SERIES". 24/7 | CHUCKY
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CHUCKY" tvg-logo="https://i.ibb.co/MWVsHKq/chucky.png" group-title="TV || 24/7 SERIES",24/7 | CHUCKY
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/23852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | KUNG FU PANDA" tvg-logo="https://i.ibb.co/f2fC3sh/kung-fu-panda.png" group-title="TV || 24/7 INFANTILES",24/7 | KUNG FU PANDA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/23854.m3u8
+#EXTINF:-1 tvg-id="Boing" tvg-name="BOING KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV || INFANTIL",BOING KIDS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/23857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://i.ibb.co/tJc50WH/imagen.png" group-title="TV || 24/7 SERIES",24/7 | ALF
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/23940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA CASA DE MICKEY MOUSE" tvg-logo="https://i.ibb.co/wKkHdLw/Nice-Png-mickey-mouse-logo-png-478826.png" group-title="TV || 24/7 INFANTILES",24/7 | LA CASA DE MICKEY MOUSE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/23964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MALCOLM EL DEL MEDIO" tvg-logo="https://images5.alphacoders.com/407/thumb-1920-407425.png" group-title="TV || 24/7 SERIES",24/7 | MALCOLM EL DEL MEDIO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/23974.m3u8
+#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="DE PELICULA" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="TV || CINE Y SERIES",DE PELICULA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | IGLESIA APOSTOLES Y PROFETAS GETSEMANI" tvg-logo="https://canal26.org/wp-content/uploads/2021/08/logo_hd.fw_.png" group-title="TV || EL SALVADOR",EL SALVADOR | IGLESIA APOSTOLES Y PROFETAS GETSEMANI
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24192.m3u8
+#EXTINF:-1 tvg-id="hbo.Mx" tvg-name="PREMIUM | HBO SUR" tvg-logo="https://i.ibb.co/hR98mJq6/hbo.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO SUR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24300.m3u8
+#EXTINF:-1 tvg-id="golde.Lat" tvg-name="PREMIUM | GOLDEN " tvg-logo="https://i.ibb.co/PzCw9gtj/Golden.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24301.m3u8
+#EXTINF:-1 tvg-id="I501.10240.zap2it.com" tvg-name="PREMIUM | HBO HD (LATINO)" tvg-logo="http://miarea.vip:8080/images/caa67992b56f94f2c25b1a0413ecba54.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO HD (LATINO)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Repretel 11" tvg-logo="http://miarea.vip:8080/images/c9a4c6a93c929d40ca5da28d43d7be19.png" group-title="TV || COSTA RICA",C. Rica - Repretel 11
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Repretel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="TV || COSTA RICA",C. Rica - Repretel 4
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Repretel 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Repretel_Canal_6_2008-2010.png" group-title="TV || COSTA RICA",C. Rica - Repretel 6
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Tele Uno" tvg-logo="https://static.wixstatic.com/media/04c6ac_24ea33fa6d5e4bb8ae4d9b2808e9eac5~mv2_d_1662_1536_s_2.png/v1/fill/w_546,h_504,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20canal%20nuevo.png" group-title="TV || COSTA RICA",C. Rica - Tele Uno
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Teletica 7 HD" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764889021_380x260.png" group-title="TV || COSTA RICA",C. Rica - Teletica 7 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="TV || COSTA RICA",C. Rica - FUTV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Tigo Sport" tvg-logo="" group-title="TV || COSTA RICA",C. Rica - Tigo Sport
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY PIXAR 1 HD" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE DISNEY PIXAR 1 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL STUDIO HD" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE MARVEL STUDIO HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL ANIMADO HD" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE MARVEL ANIMADO HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | CANAL i" tvg-logo="http://canal-i.com/wordpress/wp-content/uploads/2023/02/Logo-Canal-I-para-la-Web-151-x-99-1.png" group-title="TV || VENEZUELA",VEN | CANAL i
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | TELEVEN" tvg-logo="http://miarea.vip:8080/images/c172e27e81a0633908064de128594689.PNG" group-title="TV || VENEZUELA",VEN | TELEVEN
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1280px-Canal_Trece_logo.svg.png" group-title="TV || COLOMBIA",COL | CANAL TRECE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/24598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SUPERMARIO BROSS 3" tvg-logo="https://i.ibb.co/qDXL9YD/mario.png" group-title="TV || 24/7 INFANTILES",24/7 | SUPERMARIO BROSS 3
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PAW PATROL" tvg-logo="http://miarea.vip:8080/images/f8c4b9c957939b596d8fef4c6c880119.png" group-title="TV || 24/7 INFANTILES",24/7 | PAW PATROL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BEETLEJUICE" tvg-logo="https://image.tmdb.org/t/p/original/61Z6mL60ltShU393JkgBawAaeCw.png" group-title="TV || 24/7 INFANTILES",24/7 | BEETLEJUICE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CABALLEROS DEL ZODIACO" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/02/Logo_CaballerosZodiaco_Bandai.png" group-title="TV || 24/7 INFANTILES",24/7 | CABALLEROS DEL ZODIACO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MERLINA" tvg-logo="https://imagenesparapeques.com/wp-content/uploads/2022/12/Logo-merlina-Addams.png" group-title="TV || 24/7 SERIES",24/7 | MERLINA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SUPER CAMPEONES" tvg-logo="https://i.ibb.co/hVZ2mFf/SUPER-CAMPEONES.jpg" group-title="TV || 24/7 INFANTILES",24/7 | LOS SUPER CAMPEONES
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo que callamos las mujeres" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/4a59809/2147483647/strip/true/crop/3840x2160+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fff%2F75%2F3ba90b0f25ff309d3288d362860d%2Flo-que-callamos-1884415.png" group-title="TV || 24/7 NOVELAS",24/7 Lo que callamos las mujeres
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA CASA DEL DRAGON" tvg-logo="https://i.ibb.co/C3jjzb1B/La-casa-del-dragon.png" group-title="TV || 24/7 SERIES",24/7 | LA CASA DEL DRAGON
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="TV || DEPORTES PPV (solo eventos)",UFC FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA FAMILIA PELUCHE" tvg-logo="https://i.ibb.co/HXLthDJ/imagen.png" group-title="TV || 24/7 SERIES",24/7 | LA FAMILIA PELUCHE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25195.m3u8
+#EXTINF:-1 tvg-id="I239.16108.zap2it.com" tvg-name="SUNDANCE" tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV || CINE Y SERIES",SUNDANCE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25196.m3u8
+#EXTINF:-1 tvg-id="I294.67749.zap2it.com" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://i.ibb.co/KxKcG07/Discovery-Familia.png" group-title="TV || DOCUMENTALES",DISCOVERY FAMILIA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| UNIVERSAL KIDS HD" tvg-logo="http://miarea.vip:8080/images/49f955c3658a4d6a0b5f128e3f0bf0d0.png" group-title=" TV || KIDS (USA)",KIDS| UNIVERSAL KIDS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| PBS KIDS HD" tvg-logo="http://miarea.vip:8080/images/4a9adc3ecdbc4a60e0cc33a7ec4dfc1a.png" group-title=" TV || KIDS (USA)",KIDS| PBS KIDS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/1200px-Nickelodeon_Logo.svg.png" group-title=" TV || KIDS (USA)",KIDS| NICKELODEON HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISNEY JR HD" tvg-logo="http://miarea.vip:8080/images/c2e7619c4ebba77f9f05524042bccd5e.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY JR HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICK JR HD" tvg-logo="http://miarea.vip:8080/images/dbe20313e007928ef4e9990347a2e424.png" group-title=" TV || KIDS (USA)",KIDS| NICK JR HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| TEEN NICK HD" tvg-logo="https://static.epg.best/us/TeenNick.us.png" group-title=" TV || KIDS (USA)",KIDS| TEEN NICK HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| BOOMERANG HD" tvg-logo="http://miarea.vip:8080/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title=" TV || KIDS (USA)",KIDS| BOOMERANG HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25207.m3u8
+#EXTINF:-1 tvg-id="I292.18279.zap2it.com" tvg-name="KIDS| DISNEY XD PACIFICO HD" tvg-logo="http://miarea.vip:8080/images/88d38d7e606f3407449091e3f3349861.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY XD PACIFICO HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISNEY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/9ebce74f862ad2d97a1979fd87df37d5.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY CHANNEL HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| CARTOON NETWORK HD" tvg-logo="https://i.ibb.co/0rZ8WWg/pngegg-2.png" group-title=" TV || KIDS (USA)",KIDS| CARTOON NETWORK HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | RT Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | RT Noticias
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | CGTN (esp)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | CGTN (esp)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MR. BEAN ANIMADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg" group-title="TV || 24/7 INFANTILES",24/7 | MR. BEAN ANIMADO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CASO CERRADO" tvg-logo="https://i.ibb.co/HG4yScF/Sin-t-tulo-2.png" group-title="TV || 24/7 SERIES",24/7 | CASO CERRADO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25636.m3u8
+#EXTINF:-1 tvg-id="UniversalHD.ar" tvg-name="PREMIUM | UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/25795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | ALJAZEERA ENGLISH HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Al-Jazeera-Logo.jpg" group-title=" TV || NOTICIAS",NOTICIAS | ALJAZEERA ENGLISH HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | NUBEH TV" tvg-logo="https://www.nubeh.tv/nubehtv.png" group-title="TV || VENEZUELA",VEN | NUBEH TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | OXIGENO NETWORK" tvg-logo="https://oxigenonetwork.com.ve/img/logooxca.png" group-title="TV || VENEZUELA",VEN | OXIGENO NETWORK
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | PANAVISION" tvg-logo="http://www.panavision.tv/panavisiontv.png" group-title="TV || VENEZUELA",VEN | PANAVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | PROMAR TV" tvg-logo="https://promar.tv/wp-content/uploads/2016/09/promar-logo.png" group-title="TV || VENEZUELA",VEN | PROMAR TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | VENEVISION" tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/media/seo/logo-venevision_600x600.png" group-title="TV || VENEZUELA",VEN | VENEVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URU| LATINO KIDS TV" tvg-logo="https://i.ibb.co/64NHFHw/Latino.png" group-title="TV || URUGUAY",URU| LATINO KIDS TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URU| UCL TELEVISION LATAM " tvg-logo="https://i.ibb.co/C3MFBwj2/UCL-uruguay.png" group-title="TV || URUGUAY",URU| UCL TELEVISION LATAM 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URU| LA RED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/100px-LogoLaRed2018.png" group-title="TV || URUGUAY",URU| LA RED
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URU| TV FLORIDA HD" tvg-logo="https://i.ibb.co/WyjR6xF/FLOREIDA.png" group-title="TV || URUGUAY",URU| TV FLORIDA HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Bolivia TV 7.2 " tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="TV || BOLIVIA",BOL | Bolivia TV 7.2 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Bolivision " tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2023/07/logo-1-150x56.png" group-title="TV || BOLIVIA",BOL | Bolivision 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Mega Tv" tvg-logo="https://tvmegavision.com/logo-megahd.png" group-title="TV || BOLIVIA",BOL | Mega Tv
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Red Uno Cochabamba " tvg-logo="https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png" group-title="TV || BOLIVIA",BOL | Red Uno Cochabamba 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Red Uno La Paz " tvg-logo="https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png" group-title="TV || BOLIVIA",BOL | Red Uno La Paz 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Red Uno Santa Cruz " tvg-logo="https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png" group-title="TV || BOLIVIA",BOL | Red Uno Santa Cruz 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | RTP " tvg-logo="https://rtpbolivia.com.bo/wp-content/uploads/elementor/thumbs/Logo800-q7ydinf88s6s2skjnyjd1vt91n6zi980xvt55ezhae.png" group-title="TV || BOLIVIA",BOL | RTP 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | XTO TV" tvg-logo="https://i.postimg.cc/KYNdDnC4/Xtotv.png" group-title="TV || BOLIVIA",BOL | XTO TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | ABC TV" tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="TV || PARAGUAY",PY | ABC TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | COSTANERA TV" tvg-logo="http://fivetv.org:25461/images/292727d6cf001ccadd0ab8574395c6dd.png" group-title="TV || PARAGUAY",PY | COSTANERA TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | DISMAR TV" tvg-logo="https://i.ibb.co/vmP8LbN/DISMAR.png" group-title="TV || PARAGUAY",PY | DISMAR TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | ESTACION CRISTAL" tvg-logo="https://i.ibb.co/wgCmpqC/ESTACION-CRISTAL.png" group-title="TV || PARAGUAY",PY | ESTACION CRISTAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | FRUTILLAR TV" tvg-logo="https://olzamultimedios.com.py/wp-content/uploads/2023/07/ftv.png" group-title="TV || PARAGUAY",PY | FRUTILLAR TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | Mi TV " tvg-logo="https://i.ibb.co/R4rRYpX/MITV.png" group-title="TV || PARAGUAY",PY | Mi TV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | RCC TV" tvg-logo="https://cdn.rcc.com.py/2017/12/logo-mobile-rcc.png" group-title="TV || PARAGUAY",PY | RCC TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | SOMOS DEL ESTE TV" tvg-logo="https://i.ibb.co/L87rTqj/SOMOS.png" group-title="TV || PARAGUAY",PY | SOMOS DEL ESTE TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | SUCESO TV" tvg-logo="https://radiosuceso.com/wp-content/uploads/2023/11/Mesa-de-trabajo-7-e1699726317334.png" group-title="TV || PARAGUAY",PY | SUCESO TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | UNICANAL" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="TV || PARAGUAY",PY | UNICANAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | UNIRADIO TV" tvg-logo="https://www.uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980.png" group-title="TV || PARAGUAY",PY | UNIRADIO TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="TV || ARGENTINA",CANAL 10 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 22 BUENOS AIRES" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png" group-title="TV || ARGENTINA",CANAL 22 BUENOS AIRES
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="TV || ARGENTINA",CANAL 26 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 TV " tvg-logo="https://i.ibb.co/X4dchSH/Screenshot-1.png" group-title="TV || ARGENTINA",CANAL 5 TV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13MAX" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/13-Max-TV-Corrientes-en-vivo.png" group-title="TV || ARGENTINA",13MAX
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 LITORAL" tvg-logo="https://9digital.com.ar/wp-content/uploads/2024/03/mi9-x1-175x130px.png" group-title="TV || ARGENTINA",CANAL 9 LITORAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MILENIUM TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png" group-title="TV || ARGENTINA",MILENIUM TV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIRE DIGITAL" tvg-logo="https://i.ibb.co/BZSVdz7/aire.png" group-title="TV || ARGENTINA",AIRE DIGITAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="TV || ARGENTINA",TELEMAX
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELENORD" tvg-logo="https://www.teleonline.tv/wp-content/uploads/2024/07/canal-12-metro-tv-150x150.jpg" group-title="TV || ARGENTINA",TELENORD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELESOL SAN JUAN" tvg-logo="https://www.telesoldiario.com/_rv20230223-01/web/assets/imgs/logos/telesol.png" group-title="TV || ARGENTINA",TELESOL SAN JUAN
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GRANDE NATAL HDTV" tvg-logo="" group-title="TV || BRASIL",TV GRANDE NATAL HDTV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vintage TV * | BR" tvg-logo="" group-title="TV || BRASIL",Vintage TV * | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Agro Brasil TV | BR" tvg-logo="" group-title="TV || BRASIL",Agro Brasil TV | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ArarunaTV | BR" tvg-logo="" group-title="TV || BRASIL",ArarunaTV | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band | BR" tvg-logo="" group-title="TV || BRASIL",Band | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classique TV | BR" tvg-logo="" group-title="TV || BRASIL",Classique TV | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV Patos de Minas | BR" tvg-logo="" group-title="TV || BRASIL",NTV Patos de Minas | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record News Espirito Santo | BR" tvg-logo="" group-title="TV || BRASIL",Record News Espirito Santo | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Premium TV | BR" tvg-logo="" group-title="TV || BRASIL",Rede Premium TV | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV A Plateia | BR" tvg-logo="" group-title="TV || BRASIL",TV A Plateia | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Água Boa | BR" tvg-logo="" group-title="TV || BRASIL",TV Água Boa | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Carioca | BR" tvg-logo="" group-title="TV || BRASIL",TV Carioca | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Destak | BR" tvg-logo="" group-title="TV || BRASIL",TV Destak | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Difusora | BR" tvg-logo="" group-title="TV || BRASIL",TV Difusora | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Difusora Leste | BR" tvg-logo="" group-title="TV || BRASIL",TV Difusora Leste | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Difusora Sul | BR" tvg-logo="" group-title="TV || BRASIL",TV Difusora Sul | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Digital Birigui | BR" tvg-logo="" group-title="TV || BRASIL",TV Digital Birigui | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Infor Bahia | BR" tvg-logo="" group-title="TV || BRASIL",TV Infor Bahia | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Jornal do Nordeste | BR" tvg-logo="" group-title="TV || BRASIL",TV Jornal do Nordeste | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Mais | BR" tvg-logo="" group-title="TV || BRASIL",TV Mais | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Mar | BR" tvg-logo="" group-title="TV || BRASIL",TV Mar | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Mundial | BR" tvg-logo="" group-title="TV || BRASIL",TV Mundial | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Natal | BR" tvg-logo="" group-title="TV || BRASIL",TV Natal | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Plan | BR" tvg-logo="" group-title="TV || BRASIL",TV Plan | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Serra Verde | BR" tvg-logo="" group-title="TV || BRASIL",TV Serra Verde | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Sul | BR" tvg-logo="" group-title="TV || BRASIL",TV Sul | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE | BR" tvg-logo="" group-title="TV || BRASIL",TVE | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Via Morena | BR" tvg-logo="" group-title="TV || BRASIL",Via Morena | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AniTV | BR" tvg-logo="" group-title="TV || BRASIL",AniTV | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 29 | BR" tvg-logo="" group-title="TV || BRASIL",Canal 29 | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon | BR" tvg-logo="" group-title="TV || BRASIL",Gospel Cartoon | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ISTV | BR" tvg-logo="" group-title="TV || BRASIL",ISTV | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETRO CARTOON" tvg-logo="" group-title="TV || BRASIL",RETRO CARTOON
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Aracati | BR" tvg-logo="" group-title="TV || BRASIL",TV Aracati | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV J.SID | BR" tvg-logo="" group-title="TV || BRASIL",TV J.SID | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Japi | BR" tvg-logo="" group-title="TV || BRASIL",TV Japi | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yellow TV | BR" tvg-logo="" group-title="TV || BRASIL",Yellow TV | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Kpop TV | BR" tvg-logo="" group-title="TV || BRASIL",Sexy Kpop TV | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top TV | BR" tvg-logo="" group-title="TV || BRASIL",Top TV | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Uniao | BR" tvg-logo="" group-title="TV || BRASIL",TV Uniao | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES TELEVISION" tvg-logo="" group-title="TV || BRASIL",GOSPEL MOVIES TELEVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NUEVO TIEMPO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nuevo_Tiempo_Logo.png" group-title="TV || BRASIL",NUEVO TIEMPO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="https://i.ibb.co/ZcwKYzp/APARECIDA.png" group-title="TV || BRASIL",TV APARECIDA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar | BR" tvg-logo="" group-title="TV || BRASIL",TV Evangelizar | BR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV REDE GOSPEL" tvg-logo="" group-title="TV || BRASIL",TV REDE GOSPEL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIVERSAL" tvg-logo="" group-title="TV || BRASIL",TV UNIVERSAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26717.m3u8
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV 2" tvg-logo="https://i.ibb.co/c2YwVxm/0b7ae2c03d70e4b7059b0358719a7ffa.png" group-title="TV || INFANTIL",BABY TV 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb-1024x278.png" group-title="TV || BOLIVIA",BOL | Cadena A
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/26871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | TELEFORMULA" tvg-logo="https://i.ibb.co/dMLcSz6/unnamed.png" group-title=" TV || NOTICIAS",NOTICIAS | TELEFORMULA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/27618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CANTINFLAS" tvg-logo="http://miarea.vip:8080/images/3c0775a906a0e93bb52a858a9d4f083b.png" group-title="TV || 24/7 SERIES",24/7 | CANTINFLAS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/28069.m3u8
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="TLENOVELAS SD" tvg-logo="http://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s1600/rojo.png" group-title="TV || NOVELAS",TLENOVELAS SD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/28419.m3u8
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TLENOVELAS HD" tvg-logo="http://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s1600/rojo.png" group-title="TV || NOVELAS",TLENOVELAS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/28420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | GEN TV " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online-218x150.png" group-title="TV || PARAGUAY",PY | GEN TV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53464.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | LA TELE " tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png" group-title="TV || PARAGUAY",PY | LA TELE 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | C9N " tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/parts-web/5f798adb/logo.png" group-title="TV || PARAGUAY",PY | C9N 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | TRECE " tvg-logo="https://i.ibb.co/3cNkkFd/TRECE.png" group-title="TV || PARAGUAY",PY | TRECE 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | SNT" tvg-logo="http://miarea.vip:8080/images/c0def78c987ca346ac27f87cbacf0ccc.png" group-title="TV || PARAGUAY",PY | SNT
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO" tvg-logo="https://telefuturo.com.py/wp-content/uploads/2021/03/cropped-cropped-logo-telefuturo.png" group-title="TV || PARAGUAY",PY | TELEFUTURO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | MEGA TV" tvg-logo="https://megacadena.com.py/wp-content/uploads/2022/05/MegaTV-logo-10.png" group-title="TV || PARAGUAY",PY | MEGA TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| HOSANNA VISION" tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png" group-title="TV || PANAMA",PANAMA| HOSANNA VISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| NEX TV" tvg-logo="https://nexpanama.com/wp-content/uploads/2019/08/logo-nex-web3.png" group-title="TV || PANAMA",PANAMA| NEX TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| RPC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpc-tv-pa.png" group-title="TV || PANAMA",PANAMA| RPC
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| TELEMETRO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemetro.png" group-title="TV || PANAMA",PANAMA| TELEMETRO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| TVMAX " tvg-logo="http://miarea.vip:8080/images/32b5e0e8fdf88d376f6a00602bd41cb8.png" group-title="TV || PANAMA",PANAMA| TVMAX 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| TVN" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-pa.png" group-title="TV || PANAMA",PANAMA| TVN
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| CABLE ONDA FC" tvg-logo="http://miarea.vip:8080/images/90ad2c9d87364c680b5afcec2a9977ff.png" group-title="TV || PANAMA",PANAMA| CABLE ONDA FC
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/53477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | KANAL D DRAMA" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-drama-tr.png" group-title="TV || ENTRETENIMIENTO",ENTRE | KANAL D DRAMA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/66150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION : VC MEDIOS TV HD" tvg-logo="https://i.ibb.co/WgBHr0F/vc.jpg" group-title="TV || RELIGION",RELIGION : VC MEDIOS TV HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/66406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | ALIENTO VISION HD" tvg-logo="https://i.ibb.co/thtKkMS/ALIENTO-VISION.jpg" group-title="TV || RELIGION",RELIGION | ALIENTO VISION HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/66408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION I CBN EN ESPAÑOL HD" tvg-logo="https://i.ibb.co/ykrKFhh/CBN.jpg" group-title="TV || RELIGION",RELIGION I CBN EN ESPAÑOL HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/66409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV | DIOS TV KIDS HD" tvg-logo="https://i.ibb.co/YL3xRMj/DIOS-KIDS.jpg" group-title="TV || RELIGION",TV | DIOS TV KIDS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/66413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | CANAL ISB HD" tvg-logo="https://i.ibb.co/vq0nxRB/ISB.jpg" group-title="TV || RELIGION",RELIGION | CANAL ISB HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/66417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | CRISTIANA TV HD" tvg-logo="https://i.ibb.co/tLbMGY8/CTN.jpg" group-title="TV || RELIGION",RELIGION | CRISTIANA TV HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/66418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | NUEVO TIEMPO HD" tvg-logo="https://i.ibb.co/SnrQTwQ/nuevo-tiempo.jpg" group-title="TV || RELIGION",RELIGION | NUEVO TIEMPO HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/66423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | ORBE 21 HD" tvg-logo="https://i.ibb.co/3Fd7ZfJ/ORBE-21.jpg" group-title="TV || RELIGION",RELIGION | ORBE 21 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/66424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | TELE FAMILIA HD" tvg-logo="https://i.ibb.co/mypGL1r/telefamilia.jpg" group-title="TV || RELIGION",RELIGION | TELE FAMILIA HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/66429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION  | TV UNIVERSAL HD" tvg-logo="https://i.ibb.co/ThQcbnn/universal.jpg" group-title="TV || RELIGION",RELIGION  | TV UNIVERSAL HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/66430.m3u8
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="TV || DEPORTES EUROPA",DAZN 3
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/69249.m3u8
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="TV || DEPORTES EUROPA",DAZN 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/69250.m3u8
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-name="EL SALVADOR | TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="TV || EL SALVADOR",EL SALVADOR | TIGO SPORTS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/69441.m3u8
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="ESPAÑA | ATRESERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="TV || ESPAÑA",ESPAÑA | ATRESERIES HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/74039.m3u8
+#EXTINF:-1 tvg-id="Canal19.sv" tvg-name="EL SALVADOR | CANAL 19" tvg-logo="https://static.epg.best/sv/Canal19.sv.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 19
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/74114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 1" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 1
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/75171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 2" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/75173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 3" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 3
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/75174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 4" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 4
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/75175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 5" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 5
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/75177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 6" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 6
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/75178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | LIGA 1 HD" tvg-logo="https://i.ibb.co/4t5WTM6/Liga-1.png" group-title="TV || PERU",Peru | LIGA 1 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/81983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | LIGA 1 MAX HD" tvg-logo="https://i.ibb.co/DfT75MR/LIGA1-MAXTV.png" group-title="TV || PERU",Peru | LIGA 1 MAX HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/81984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="http://miarea.vip:8080/images/fb0ccc60384b35ba7b349f290db5cdc9.png" group-title="TV || DEPORTES EUROPA",DAZN LA LIGA HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/89730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUN HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/2fba4f552644ce9d592c588a206fdb1c.png" group-title="TV || DEPORTES PPV (solo eventos)",ESPN PREMIUN HD ARGENTINA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/89731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="TV || ARGENTINA",TN NOTICIAS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/90963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://static.epg.best/ar/C5N.ar.png" group-title="TV || ARGENTINA",C5N
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/90964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA NACION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/2560px-Logo_La_Naci%C3%B3n.svg.png" group-title="TV || ARGENTINA",LA NACION+
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/90965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A24 HD" tvg-logo="http://miarea.vip:8080/images/2eaff8a0e93659e55a3e21d250aa7347.png" group-title="TV || ARGENTINA",A24 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/90966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="TV || USA (INGLES)",ABC New York
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://miarea.vip:8080/images/1b39f29d6f36176cbdb53e916821c8a6.png" group-title="TV || USA (INGLES)",Animal Planet HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Los Angeles" tvg-logo="https://i.ibb.co/JvSXCbw/CBS.png" group-title="TV || USA (INGLES)",CBS News Los Angeles
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Miami" tvg-logo="https://i.ibb.co/JvSXCbw/CBS.png" group-title="TV || USA (INGLES)",CBS News Miami
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="https://i.ibb.co/SR9Vh7N/CNBC.png" group-title="TV || USA (INGLES)",CNBC
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC WORLD" tvg-logo="https://i.ibb.co/rcH5Jqm/CNBC-w.png" group-title="TV || USA (INGLES)",CNBC WORLD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="http://miarea.vip:8080/images/a51d13bc1e3b18dbdc5aba51eecec003.png" group-title="TV || USA (INGLES)",Comedy Central HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy TV" tvg-logo="https://comedy.tv/files/2018/09/COMEDY.TV_LOGO-300x132.png" group-title="TV || USA (INGLES)",Comedy TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comet" tvg-logo="https://i.ibb.co/SdW4XfL/comet.png" group-title="TV || USA (INGLES)",Comet
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cooking Channel" tvg-logo="https://i.ibb.co/Rc1zv0Y/cooking.png" group-title="TV || USA (INGLES)",Cooking Channel
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Destination America" tvg-logo="https://i.ibb.co/dQxpC94/Destination.png" group-title="TV || USA (INGLES)",Destination America
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/HtqyD0b/ddffds.png" group-title="TV || USA (INGLES)",Discovery Channel
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" tvg-logo="https://i.ibb.co/hMcPsQ0/Ei.png" group-title="TV || USA (INGLES)",E! Entertainment
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="http://miarea.vip:8080/images/16b51181f963f3b606659114ac8556a9.png" group-title="TV || USA (INGLES)",Food Network HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV " tvg-logo="http://miarea.vip:8080/images/eeed19f1a5e7ebef46688ef79bc27ae8.png" group-title="TV || USA (INGLES)",BLOOMBERG TV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX New York" tvg-logo="https://i.ibb.co/h972513/Fox-New-York.png" group-title="TV || USA (INGLES)",FOX New York
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freeform HD" tvg-logo="https://logo.iptveditor.com/freeformwest.png" group-title="TV || USA (INGLES)",Freeform HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GSN (Game Show Network)" tvg-logo="http://miarea.vip:8080/images/13b889216b85fd23bf8903229b4e2d6d.png" group-title="TV || USA (INGLES)",GSN (Game Show Network)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Heroes Channel" tvg-logo="https://iptvboss.xyz/logos/USA/AmericanHeroesChannel.us.png" group-title="TV || USA (INGLES)",American Heroes Channel
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://i.ibb.co/K0gm3yd/640px-HGTV-US-Logo-2015-svg.png" group-title="TV || USA (INGLES)",HGTV HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="METV" tvg-logo="https://logo.iptveditor.com/metv.png" group-title="TV || USA (INGLES)",METV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.ibb.co/Nr54RWq/Nat-Geo-Wild-logo.png" group-title="TV || USA (INGLES)",Nat Geo Wild HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OVATION" tvg-logo="https://i.ibb.co/ZN2xSFB/ovation.png" group-title="TV || USA (INGLES)",OVATION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBS HD" tvg-logo="http://miarea.vip:8080/images/4d1219f6bb173eb9d66f44612ec343eb.png" group-title="TV || USA (INGLES)",PBS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="https://i.ibb.co/26ztFPH/Sony-movies.png" group-title="TV || USA (INGLES)",Sony Movies
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz East HD" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Starz-Logo-2016.png" group-title="TV || USA (INGLES)",Starz East HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC EAST" tvg-logo="https://i.ibb.co/Sty4hn5/TLC.png" group-title="TV || USA (INGLES)",TLC EAST
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="TV || USA (INGLES)",TNT WEST
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD" tvg-logo="https://i.ibb.co/pyTvP1j/Travel-Channel.png" group-title="TV || USA (INGLES)",Travel Channel HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/LQ2SQhw/TVOne-2016.png" group-title="TV || USA (INGLES)",TV ONE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Network West" tvg-logo="http://miarea.vip:8080/images/6979e93d9ac7e3264e4f4673917fc022.png" group-title="TV || USA (INGLES)",USA Network West
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vice TV" tvg-logo="https://i.ibb.co/KsDVJ19/vice.png" group-title="TV || USA (INGLES)",Vice TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="TV || USA (INGLES)",Weather Channel
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/91341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| HCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logohch2022.png" group-title="TV || HONDURAS",HOND| HCH
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/92859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | AMERICA HORROR STORY" tvg-logo="https://i.postimg.cc/P5g6tPX4/American-Horror-Story.png" group-title="TV || 24/7 SERIES",24/7 | AMERICA HORROR STORY
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/101570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VALLENATO INTERNACIONAL" tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/virtv_logo-290x68px.png" group-title="TV || MUSICA",VALLENATO INTERNACIONAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/101616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | ATV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV || PERU",Peru | ATV+
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/102082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TROPICAL MUSIC TV" tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/tropical_music_logo_red-155x68px.png" group-title="TV || MUSICA",TROPICAL MUSIC TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/102104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QUIERO MUSICA TV" tvg-logo="https://www.qmusica.tv/qmusica_logo_1.png" group-title="TV || MUSICA",QUIERO MUSICA TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/102105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TELEVISION LEGISLATIVA" tvg-logo="https://i.ibb.co/HCNMXKz/asamblea.png" group-title="TV || EL SALVADOR",EL SALVADOR | TELEVISION LEGISLATIVA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/102107.m3u8
+#EXTINF:-1 tvg-id="Energy" tvg-name="ESPAÑA | ENERGY HD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png" group-title="TV || ESPAÑA",ESPAÑA | ENERGY HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/110480.m3u8
+#EXTINF:-1 tvg-id="I2.16461.schedulesdirect.org" tvg-name="MX| LAS ESTRELLAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TV || MEXICO",MX| LAS ESTRELLAS MX
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/110791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | UNIVISION" tvg-logo="https://lavibra.com/wp-content/uploads/2022/04/univision-noticias-logo.png" group-title=" TV || NOTICIAS",NOTICIAS | UNIVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/110792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title=" TV || NOTICIAS",NOTICIAS | ADN 40
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/110831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | RCN INTERNACIONAL" tvg-logo="http://miarea.vip:8080/images/ea82410c7a9991816b5eeeebe195e20a.png" group-title="TV || ENTRETENIMIENTO",ENTRE | RCN INTERNACIONAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/110833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Ticavison" tvg-logo="https://i.ibb.co/Fh2Q85x/TICA-VISION.png" group-title="TV || COSTA RICA",C. Rica - Ticavison
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/110834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 27" tvg-logo="https://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944.png" group-title="TV ||  GUATEMALA",GUATEMALA | CANAL 27
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | ESQUIPULAS TV" tvg-logo="https://esquipulastv.com/wp-content/uploads/2020/08/Logo-ETV-FINAL-1.png" group-title="TV ||  GUATEMALA",GUATEMALA | ESQUIPULAS TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 7" tvg-logo="https://www.chapintv.com/wp-content/uploads/2023/08/signal-canal-7-4.png" group-title="TV ||  GUATEMALA",GUATEMALA | CANAL 7
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | TN23" tvg-logo="https://i.ibb.co/PrgK87Z/TN23.png" group-title="TV ||  GUATEMALA",GUATEMALA | TN23
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="TV || ARGENTINA",EL NUEVE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | UCV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/UCV_Logo.png" group-title="TV || CHILE",CHILE | UCV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | UESTV" tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="TV || CHILE",CHILE | UESTV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="TV || COSTA RICA",C. Rica - Canal 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="TV || COSTA RICA",C. Rica - Canal 8
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Telesistema" tvg-logo="https://telesistemacr.com/wp-content/uploads/2023/03/LOGO-TELESISTEMA-1.png" group-title="TV || COSTA RICA",C. Rica - Telesistema
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 1" tvg-logo="https://www.lateja.cr/resizer/kpPE6RkJefPYNY4yxYoY8xT3Y8g=/400x225/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/A5QSG7J2ERAN7DYBXWEGY73H2I.png" group-title="TV || COSTA RICA",C. Rica - Canal 1
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| TELEVISION METROPOLIS" tvg-logo="http://www.comunicacionesmetropolis.com/assets/images/image8o-1-180x86.png" group-title="TV || HONDURAS",HOND| TELEVISION METROPOLIS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIcaragua | WTV CANAL 20" tvg-logo="https://i.ibb.co/BT3fntJ/WTW.png" group-title="TV || NICARAGUA",NIcaragua | WTV CANAL 20
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/112928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | WOW TV" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV || EL SALVADOR",EL SALVADOR | WOW TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/117970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="TV || DEPORTES EUROPA",DAZN F1
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/120317.m3u8
+#EXTINF:-1 tvg-id="594clarovideo.cl" tvg-name="MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="TV || CINE Y SERIES",MULTIPREMIER
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/126323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOREMAX FHD" tvg-logo="http://miarea.vip:8080/images/fd14f9920e6f9506903aeced73e335a8.png" group-title="TV || CINE Y SERIES",MOREMAX FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/126327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA HD" tvg-logo="http://miarea.vip:8080/images/d6fd0924e324f50669ae0295adf59567.png" group-title="TV || CINE Y SERIES",MULTICINEMA HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/126330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="TV || CINE Y SERIES",SONY MOVIES
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/126339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TIME NETWORK HD LATINO" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="TV || CINE Y SERIES",MY TIME NETWORK HD LATINO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 7" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 7
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 8" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 8
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 9" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 9
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 10" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 10
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 11" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 11
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 12" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 12
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 13" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 13
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 14" tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 14
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE MANDALORIAN" tvg-logo="https://i.ibb.co/BTzvzbP/pngwing-com-4.png" group-title="TV || 24/7 SERIES",24/7 | THE MANDALORIAN
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE WALKING DEAD" tvg-logo="https://i.postimg.cc/ZRhqmFvL/The-Walking-Dead-Logo.png" group-title="TV || 24/7 SERIES",24/7 | THE WALKING DEAD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BEN 10" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ben-10-logo-black-and-white.png" group-title="TV || 24/7 INFANTILES",24/7 | BEN 10
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La rosa de Guadalupe" tvg-logo="https://i.ibb.co/0G8bPFb/Sin-t-tulo-1.png" group-title="TV || 24/7 NOVELAS",24/7 La rosa de Guadalupe
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapo" tvg-logo="https://i.ibb.co/7r8P7kc/pngegg-1.png" group-title="TV || 24/7 NOVELAS",24/7 El Chapo
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ANIMANIACS" tvg-logo="https://i.ibb.co/tTgJ9LHy/ANIMANIACS.png" group-title="TV || 24/7 INFANTILES",24/7 | ANIMANIACS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | EXITOSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV || PERU",Peru | EXITOSA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/139709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="https://i.ibb.co/7WxWMNS/axn-movie.png" group-title="TV || CINE Y SERIES",AXN MOVIES
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/141568.m3u8
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="ESPAÑA | BE MAD" tvg-logo="http://miarea.vip:8080/images/a6d87ffeb7877bfa557f803f0e18b147.png" group-title="TV || ESPAÑA",ESPAÑA | BE MAD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/145249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL SD" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="TV || COLOMBIA",COL | CARACOL SD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/153830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | NATIVA" tvg-logo="https://i.ibb.co/WNX03DrG/Nativa-tv.png" group-title="TV || PERU",Peru | NATIVA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/161958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | UNIVISION LOS ANGELES" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION LOS ANGELES
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/162346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO LOS ANGELES" tvg-logo="http://miarea.vip:8080/images/0049d39433c2d9959de3767edd8dd31b.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO LOS ANGELES
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/162347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | GLOBOVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="TV || VENEZUELA",VEN | GLOBOVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/169155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/2560px-TV_Azteca_Cinema_logo.svg.png" group-title="TV || CINE Y SERIES",CINEMA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/169185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El final del paraíso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B2upXyWC74tRmg6UEtuvIm08rQ.jpg" group-title="TV || 24/7 NOVELAS",24/7 El final del paraíso
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/169282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Globo_logo_1975.svg/2172px-Globo_logo_1975.svg.png" group-title="TV || BRASIL",Globo Premium
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/169766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertaiment HD" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="TV || DOCUMENTALES",E! Entertaiment HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/170735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | SEÑAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="TV || COLOMBIA",COL | SEÑAL COLOMBIA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/171153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ADVENTURE TIME" tvg-logo="http://miarea.vip:8080/images/2c6243d18bef6c591166de9a6ce78888.png" group-title="TV || 24/7 INFANTILES",24/7 | ADVENTURE TIME
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/171237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | SEO TV" tvg-logo="https://i.ibb.co/GpVXdGs/SEO.png" group-title="TV || BOLIVIA",BOL | SEO TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/172173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STINGRAY MUSIC" tvg-logo="https://i.ibb.co/vfTNzgB/Stingray-Music.png" group-title="TV || MUSICA",STINGRAY MUSIC
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03549e27277257.5584ec82d8cba.png" group-title="TV || INFANTIL",ZOOMOO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="TV || COLOMBIA",COL | CANAL UNO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | VE PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="TV || VENEZUELA",VEN | VE PLUS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEMEDELLIN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="TV || COLOMBIA",COL | TELEMEDELLIN 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | EWTN HD" tvg-logo="https://i.ibb.co/j89z5JZ/EWTN.jpg" group-title="TV || RELIGION",RELIGION | EWTN HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | CRISTOVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Cristovisi%C3%B3n_Logo.png" group-title="TV || RELIGION",RELIGION | CRISTOVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="TV || DOCUMENTALES",Love Nature
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | ZOOM" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online.png" group-title="TV || COLOMBIA",COL | ZOOM
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMEX CLASICO" tvg-logo="https://i.ibb.co/JkKpwmr/Filmex.png" group-title="TV || CINE Y SERIES",FILMEX CLASICO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMEX COMEDIA" tvg-logo="https://i.ibb.co/JkKpwmr/Filmex.png" group-title="TV || CINE Y SERIES",FILMEX COMEDIA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMEX HD" tvg-logo="https://i.ibb.co/JkKpwmr/Filmex.png" group-title="TV || CINE Y SERIES",FILMEX HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/173279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 1" tvg-logo="http://miarea.vip:8080/images/b26c430b77563771ebc075c349a1e9d2.png" group-title="TV || 24/7 CINE",CINE NETFLIX 1
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/176198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 2" tvg-logo="http://miarea.vip:8080/images/9f292e1a35dc6ae083b558c76796a386.png" group-title="TV || 24/7 CINE",CINE NETFLIX 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/176199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 3" tvg-logo="http://miarea.vip:8080/images/e584c0392a72284e0a6db6f24a5307fe.png" group-title="TV || 24/7 CINE",CINE NETFLIX 3
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/176200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 4" tvg-logo="http://miarea.vip:8080/images/341cb746a182ce7794a01554edb5d600.png" group-title="TV || 24/7 CINE",CINE NETFLIX 4
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/176201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 5" tvg-logo="http://miarea.vip:8080/images/50b07b9f0c5e702bdcec7e3626645149.png" group-title="TV || 24/7 CINE",CINE NETFLIX 5
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/176202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 6" tvg-logo="http://miarea.vip:8080/images/e05883a56570cbdd96af5d715b197fd7.png" group-title="TV || 24/7 CINE",CINE NETFLIX 6
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/176203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 7" tvg-logo="http://miarea.vip:8080/images/1b7552bcff0edef542970672608c35b6.png" group-title="TV || 24/7 CINE",CINE NETFLIX 7
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/176204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 8" tvg-logo="http://miarea.vip:8080/images/0db817b6729c1fc9f8df4d501055a3f0.png" group-title="TV || 24/7 CINE",CINE NETFLIX 8
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/176205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA ll HTV" tvg-logo="http://svtv.xyz:8000/images/55e730d0262e3f8f7f45f6bfc922b8f6.png" group-title="TV || MUSICA",MUSICA ll HTV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/176994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPIX WEST HD" tvg-logo="https://i.ibb.co/DzJW6dv/epix.png" group-title="TV || CINE Y SERIES",EPIX WEST HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/180752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACTION MAX " tvg-logo="https://i.ibb.co/zFZ2F97/max.png" group-title="TV || CINE Y SERIES",ACTION MAX 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/180753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GENTV DIGITAL" tvg-logo="https://i.ibb.co/LdtcWs1/Gentv.png" group-title="TV || ARGENTINA",GENTV DIGITAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/180814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 9" tvg-logo="http://miarea.vip:8080/images/0db817b6729c1fc9f8df4d501055a3f0.png" group-title="TV || 24/7 CINE",CINE NETFLIX 9
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 10" tvg-logo="http://miarea.vip:8080/images/0db817b6729c1fc9f8df4d501055a3f0.png" group-title="TV || 24/7 CINE",CINE NETFLIX 10
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WALKING DEAD" tvg-logo="https://i.postimg.cc/vZJ3CNmG/WALKING.png" group-title="TV || 24/7 SERIES",24/7 THE WALKING DEAD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCREAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTRUcUnAydqboYfis0IhhY1edDt.jpg" group-title="TV || 24/7 CINE",24/7 SCREAM
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PARAMOUNT+ 01" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="TV || 24/7 CINE",CINE PARAMOUNT+ 01
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PARAMOUNT+ 02" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="TV || 24/7 CINE",CINE PARAMOUNT+ 02
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 3
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 4
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 5
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 1
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 3
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 4
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 5
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/181943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PEAKY BLINDERS" tvg-logo="https://i.ibb.co/Jxkk7nY/peaky.png" group-title="TV || 24/7 SERIES",24/7 | PEAKY BLINDERS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/182136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MICKEY MOUSE" tvg-logo="https://image.tmdb.org/t/p/w94_and_h141_bestv2/aAJ5T2Ab28vbbP9s6wWqdtK3arQ.jpg" group-title="TV || 24/7 INFANTILES",24/7 | MICKEY MOUSE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/182137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL EXORCISTA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcXOCWdv0ulNxEqV6jvZcUdZZRa.jpg" group-title="TV || 24/7 SERIES",24/7 | EL EXORCISTA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/182138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PERDIDOS" tvg-logo="https://image.tmdb.org/t/p/original/jvYAdIQ9f1HwlutyFW8ZXWbcmFe.jpg" group-title="TV || 24/7 SERIES",24/7 | PERDIDOS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/182139.m3u8
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ESPAÑA | CUATRO" tvg-logo="https://i.ibb.co/q3ffW5nG/Cuatro.png" group-title="TV || ESPAÑA",ESPAÑA | CUATRO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/182368.m3u8
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ESPAÑA | CANAL HOLLYWOOD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="TV || ESPAÑA",ESPAÑA | CANAL HOLLYWOOD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/182369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | TELE TUYA" tvg-logo="https://teletuya.net/wp-content/uploads/2023/07/Logo-TeleTuya.png" group-title="TV || VENEZUELA",VEN | TELE TUYA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/182972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Foro_TV_%28Canal_4_MX_2022%29.svg/1200px-Foro_TV_%28Canal_4_MX_2022%29.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | FORO TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/182973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | TELESUR" tvg-logo="https://www.telesurtv.net/__export/1433991439956/sites/telesur/img/news/2015/06/10/telesurlogo.jpg" group-title="TV || VENEZUELA",VEN | TELESUR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/182974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | TV ONE" tvg-logo="https://tvone.pe/tvone.png" group-title="TV || PERU",Peru | TV ONE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/183698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | ASOMAVISION" tvg-logo="https://i0.wp.com/www.asomavision.com/wp-content/uploads/2021/08/logo-1.png" group-title="TV || RELIGION",RELIGION | ASOMAVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/184767.m3u8
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ESPAÑA | ODISEA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="TV || ESPAÑA",ESPAÑA | ODISEA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/184852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PARAMOUNT+ 03" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="TV || 24/7 CINE",CINE PARAMOUNT+ 03
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/185032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PARAMOUNT+ 04" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="TV || 24/7 CINE",CINE PARAMOUNT+ 04
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/185034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE STAR+ 1" tvg-logo="https://i.ibb.co/7dPY6Tdq/Star-Cinema.png" group-title="TV || 24/7 CINE",CINE STAR+ 1
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/185035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2" tvg-logo="http://miarea.vip:8080/images/d08bde0ff5dfd02be32eeb0cb2a3fd39.png" group-title="TV || INFANTIL",NICK 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/185049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOGOSTV KIDS" tvg-logo="https://i.ibb.co/KLTf0f0/LOGOS.png" group-title="TV || INFANTIL",LOGOSTV KIDS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/185050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="https://i.ibb.co/D75pqxQ/id.png" group-title="TV || USA (INGLES)",ID INVESTIGATION DISCOVERY HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/185139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | ADULT SWIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.png" group-title="TV || ENTRETENIMIENTO",ENTRE | ADULT SWIM
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/185141.m3u8
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ESPAÑA | LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TV || ESPAÑA",ESPAÑA | LA 1 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TRECE" tvg-logo="https://i.ibb.co/3CsvTJt/trece.png" group-title="TV || ESPAÑA",ESPAÑA | TRECE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186220.m3u8
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ESPAÑA | ONE TORO" tvg-logo="http://miarea.vip:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="TV || ESPAÑA",ESPAÑA | ONE TORO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | 24H" tvg-logo="https://i.ibb.co/kh1mxkz/24.png" group-title="TV || ESPAÑA",ESPAÑA | 24H
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186222.m3u8
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ESPAÑA | COSMO" tvg-logo="http://miarea.vip:8080/images/fcd004e6313779d4b52dd4abe04a547a.png" group-title="TV || ESPAÑA",ESPAÑA | COSMO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186223.m3u8
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="ESPAÑA | CALLE 13" tvg-logo="http://miarea.vip:8080/images/9e1ad00b3db7f22045b242d71638851b.png" group-title="TV || ESPAÑA",ESPAÑA | CALLE 13
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186224.m3u8
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="ESPAÑA | TELEMADRID" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png" group-title="TV || ESPAÑA",ESPAÑA | TELEMADRID
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO CHICAGO" tvg-logo="https://i.ibb.co/KbRpJcF/telemundo-chicado.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO CHICAGO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO INTERNACIONAL" tvg-logo="https://i.ibb.co/Zz1kSwG/Telemundo-internacional.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO INTERNACIONAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | UNIVISION NEW YORK" tvg-logo="https://i.ibb.co/Wz7Jvfj/univision-ny.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION NEW YORK
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186430.m3u8
+#EXTINF:-1 tvg-id="UniMás (East)" tvg-name="ENTRE | UNIMAS MIAMI" tvg-logo="https://i.ibb.co/h121P95/unimas.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIMAS MIAMI
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186431.m3u8
+#EXTINF:-1 tvg-id="0812" tvg-name="ENTRE | COMEDY CENTRAL HD" tvg-logo="http://miarea.vip:8080/images/83638af2c9b6018508790b0acde5e5e0.png" group-title="TV || ENTRETENIMIENTO",ENTRE | COMEDY CENTRAL HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | MEGA TV USA" tvg-logo="https://i.ibb.co/LD749PY/megatv.png" group-title="TV || ENTRETENIMIENTO",ENTRE | MEGA TV USA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186433.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | CANAL DE LAS ESTRELLAS FHD" tvg-logo="http://miarea.vip:8080/images/b15c919ea2656eb10414e6e6001d61e1.png" group-title="TV || ENTRETENIMIENTO",ENTRE | CANAL DE LAS ESTRELLAS FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186434.m3u8
+#EXTINF:-1 tvg-id="I218.30259.schedulesdirect.org" tvg-name="ENTRE | E! ENTRETENIMIENTO HD" tvg-logo="http://miarea.vip:8080/images/ec12a8b7e005a91bd7dd67cef960610b.png" group-title="TV || ENTRETENIMIENTO",ENTRE | E! ENTRETENIMIENTO HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186435.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | DISTRITO COMEDIA HD" tvg-logo="https://i.ibb.co/x6MHNYr/Logo-Distrito-Comedia.png" group-title="TV || ENTRETENIMIENTO",ENTRE | DISTRITO COMEDIA HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186436.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | FOOD NETWORK LATINO FHD" tvg-logo="http://miarea.vip:8080/images/f1f3d8f737ed0f285c636273d5b52f17.png" group-title="TV || ENTRETENIMIENTO",ENTRE | FOOD NETWORK LATINO FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186437.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | GOURMET HD" tvg-logo="http://miarea.vip:8080/images/08a1fc1cb8a462f37c3eaf29f15562bb.png" group-title="TV || ENTRETENIMIENTO",ENTRE | GOURMET HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | GALAVISION" tvg-logo="https://i.ibb.co/Q8TCJT7/galavision.png" group-title="TV || ENTRETENIMIENTO",ENTRE | GALAVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186439.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | UNICABLE HD" tvg-logo="http://miarea.vip:8080/images/b5cdf0105b2a4721257e6b1011f4ce06.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNICABLE HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | BITME" tvg-logo="http://miarea.vip:8080/images/8fdcaf15d7cb14bd280e8614a61395de.png" group-title="TV || ENTRETENIMIENTO",ENTRE | BITME
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186441.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.ibb.co/QJPFN2P/cartoonito.png" group-title="TV || INFANTIL",CARTOONITO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD " tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="TV || INFANTIL",DISCOVERY KIDS HD 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186443.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="CARTOON NETWORK " tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="TV || INFANTIL",CARTOON NETWORK 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL " tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="TV || INFANTIL",DISNEY CHANNEL 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="TV || INFANTIL",DISNEY JUNIOR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="TV || INFANTIL",TOONCAST 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="TV || INFANTIL",NICKELODEON
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD  " tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="TV || INFANTIL",NICK JR HD  
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="TV || INFANTIL",BABY TV HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://miarea.vip:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="TV || CINE Y SERIES",CINEMAX HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="http://miarea.vip:8080/images/973b56cda0c1aa82b64ca4ee4fa2044a.png" group-title="TV || CINE Y SERIES",SPACE HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="http://miarea.vip:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="TV || CINE Y SERIES",CINECANAL HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="TV || CINE Y SERIES",SONY CHANNEL HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="TV || CINE Y SERIES",WARNER HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://miarea.vip:8080/images/1baabb2d7586fb25feb0a8378df0e12a.png" group-title="TV || CINE Y SERIES",TBS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://miarea.vip:8080/images/a156fe16fad2f066fd0c090caf4b89b7.png" group-title="TV || CINE Y SERIES",SYFY HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="https://static.epg.best/pt/AandE.pt.png" group-title="TV || CINE Y SERIES",A&E 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV || CINE Y SERIES",AMC
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="TV || CINE Y SERIES",AXN 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://static.epg.best/ar/Cinecanal.ar.png" group-title="TV || CINE Y SERIES",CINECANAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX USA" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="TV || CINE Y SERIES",CINEMAX USA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="TV || CINE Y SERIES",FX
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186467.m3u8
+#EXTINF:-1 tvg-id="88305" tvg-name="FILM  & ARTS" tvg-logo="http://miarea.vip:8080/images/146482b30f24e39213d5fce7c84fb1c7.png" group-title="TV || CINE Y SERIES",FILM  & ARTS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186472.m3u8
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="TV || CINE Y SERIES",TCM
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186475.m3u8
+#EXTINF:-1 tvg-id="1833" tvg-name="TNT SERIES " tvg-logo="https://static.epg.best/pa/TNTSeries.pa.png" group-title="TV || CINE Y SERIES",TNT SERIES 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186476.m3u8
+#EXTINF:-1 tvg-id="3805" tvg-name="TNT HD" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="TV || CINE Y SERIES",TNT HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN PREMIER HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | STARZ ENCORE ESPANOL" tvg-logo="https://i.ibb.co/w6vZ5px/STARZESP.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | STARZ ENCORE ESPANOL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186480.m3u8
+#EXTINF:-1 tvg-id="0802" tvg-name="PREMIUM | DHE HD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | DHE HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO LATINO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO LATINO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186482.m3u8
+#EXTINF:-1 tvg-id="0814" tvg-name="PREMIUM | HBO 2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL COMEDY HD" tvg-logo="https://universalplus.com/assets/logo_comedy_hero.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL COMEDY HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL CINEMA HD" tvg-logo="http://miarea.vip:8080/images/5290e121f398b2a63ed3b8b720b54d33.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL CINEMA HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL PREMIER HD" tvg-logo="http://miarea.vip:8080/images/e5bacf48b8ec9875c34ede41ee2a0913.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL PREMIER HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL CRIME HD" tvg-logo="http://miarea.vip:8080/images/7b2900fcdb12cfc140ad2a6027f7e065.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL CRIME HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | STUDIO UNIVERSAL " tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | STUDIO UNIVERSAL 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | STAR CHANNEL HD" tvg-logo="https://i.ibb.co/fSbvx7T/STAR22.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | STAR CHANNEL HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186489.m3u8
+#EXTINF:-1 tvg-id="16423" tvg-name="PREMIUM | GOLDEN EDGE HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/GOLDENEDGE.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN EDGE HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186490.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | GOLDEN HD" tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186491.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | GOLDEN PLUS FHD" tvg-logo="http://miarea.vip:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN PLUS FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO XTREME" tvg-logo="https://i.ibb.co/bPRQG6P/hboext1.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO XTREME
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186493.m3u8
+#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="PREMIUM | HBO HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186494.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | HBO MUNDI HD" tvg-logo="http://miarea.vip:8080/images/ab81cb3e1f5f55ad886bde01dcde7724.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO MUNDI HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186496.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | HBO PLUS FHD " tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPLUS.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO PLUS FHD 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186497.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | HBO PLUS HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPLUS.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO PLUS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186498.m3u8
+#EXTINF:-1 tvg-id="HBOPopPanamerica.pa" tvg-name="PREMIUM | HBO POP HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPOP.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO POP HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186499.m3u8
+#EXTINF:-1 tvg-id="74450" tvg-name="PREMIUM | HBO SIGNATURE HD" tvg-logo="http://miarea.vip:8080/images/d120fdf3444442524d11bb15a8a6e361.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO SIGNATURE HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="TV || DOCUMENTALES",INVESTIGATION DISCOVERY HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186501.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="DISCOVERY SCIENCIE HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="TV || DOCUMENTALES",DISCOVERY SCIENCIE HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186503.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="DISCOVERY THEATHER HD" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="TV || DOCUMENTALES",DISCOVERY THEATHER HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY TURBO  HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY WORLD HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186506.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="H2 HD" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="TV || DOCUMENTALES",H2 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186507.m3u8
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="TV || DOCUMENTALES",HISTORY CHANNEL FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186509.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="NATGEO WILD HD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="TV || DOCUMENTALES",NATGEO WILD HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="TV || DOCUMENTALES",NATIONAL GEOGRAPHIC FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186512.m3u8
+#EXTINF:-1 tvg-id="tlc.Lat" tvg-name="TLC HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TLC.png" group-title="TV || DOCUMENTALES",TLC HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186513.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="TYC SPORTS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TYC.jpg" group-title="TV || ARGENTINA",TYC SPORTS FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186514.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="TNT SPORTS ARGENTINA HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TNTSPORTS.png" group-title="TV || ARGENTINA",TNT SPORTS ARGENTINA HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186515.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="TV PUBLICA" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ARGENTINA/TVPUBLICA.png" group-title="TV || ARGENTINA",TV PUBLICA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186516.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="TELEFE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ARGENTINA/TELEFE.png" group-title="TV || ARGENTINA",TELEFE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186517.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="EL TRECE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ARGENTINA/ELTRECE.png" group-title="TV || ARGENTINA",EL TRECE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186518.m3u8
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-name="AMERICA TV HD " tvg-logo="https://i.ibb.co/jfDf9K0/america.png" group-title="TV || ARGENTINA",AMERICA TV HD 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 12 HD" tvg-logo="http://miarea.vip:8080/images/c4ec6e042c59d543cc850484121e43e8.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 12 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 2 HD" tvg-logo="http://miarea.vip:8080/images/f900dc416b125c163dcb71e4185dd277.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 2 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 4 HD" tvg-logo="http://miarea.vip:8080/images/d5a98cc11d1757b7165c4f9ed9461cb8.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 4 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186522.m3u8
+#EXTINF:-1 tvg-id="Canal6Nacional.sv" tvg-name="EL SALVADOR | CANAL 6 HD" tvg-logo="http://miarea.vip:8080/images/7b7cdd444b39157b2a916d79fc4ebe49.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 6 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186523.m3u8
+#EXTINF:-1 tvg-id="Canal21.sv" tvg-name="EL SALVADOR | CANAL 21" tvg-logo="https://static.epg.best/sv/Canal21.sv.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 21
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186524.m3u8
+#EXTINF:-1 tvg-id="Canal10Nacional.sv" tvg-name="EL SALVADOR | CANAL 10 " tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-10-sv.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 10 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | ORBITA TV" tvg-logo="https://i.ibb.co/pXKz0Fx/ORBITA.png" group-title="TV || EL SALVADOR",EL SALVADOR | ORBITA TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TRIBUNA TV" tvg-logo="https://i.ibb.co/tBPSjvm/tribuna.png" group-title="TV || EL SALVADOR",EL SALVADOR | TRIBUNA TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186527.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOL.png" group-title="TV || COLOMBIA",COL | CARACOL HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186530.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL INT HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOLINT.png" group-title="TV || COLOMBIA",COL | CARACOL INT HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186531.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="COL | NTN24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="TV || COLOMBIA",COL | NTN24 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL DOCE" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Sincelejo-en-vivo-Online.png" group-title="TV || COLOMBIA",COL | CANAL DOCE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN HD*" tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="TV || COLOMBIA",COL | RCN HD*
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN HD " tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="TV || COLOMBIA",COL | RCN HD 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Teleantioquia_logo.png/250px-Teleantioquia_logo.png" group-title="TV || COLOMBIA",COL | TELEANTIOQUIA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/125px-Telepac%C3%ADfico.png" group-title="TV || COLOMBIA",COL | TELEPACIFICO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186537.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="COL | TELECAFE HD" tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png" group-title="TV || COLOMBIA",COL | TELECAFE HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CITY TV HD" tvg-logo="https://i.ibb.co/9g8JcJW/city.png" group-title="TV || COLOMBIA",COL | CITY TV HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186539.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | HOLA TV HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/HOLATV.png" group-title="TV || ENTRETENIMIENTO",ENTRE | HOLA TV HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186780.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | AMC SERIES" tvg-logo="https://i.ibb.co/SD67X8HJ/AMC-Series.png" group-title="TV || CINE Y SERIES",ENTRE | AMC SERIES
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | AMERICA TV LATINO USA" tvg-logo="http://miarea.vip:8080/images/920866c82a903679d345fe5be58f3c99.png" group-title="TV || ENTRETENIMIENTO",ENTRE | AMERICA TV LATINO USA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186782.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="NOTICIAS | DW ESPAÑOL HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/NOTICIAS/DWAMERICA.png" group-title=" TV || NOTICIAS",NOTICIAS | DW ESPAÑOL HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | M+ DRAMA HD" tvg-logo="http://miarea.vip:8080/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV || ENTRETENIMIENTO",ENTRE | M+ DRAMA HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186784.m3u8
+#EXTINF:-1 tvg-id="1705" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="TV || DOCUMENTALES",ANIMAL PLANET
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telehit HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="TV || MUSICA",Telehit HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MTV_1981_logo_%28no_outline%29.svg/1200px-MTV_1981_logo_%28no_outline%29.svg.png" group-title="TV || MUSICA",MTV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="https://i.ibb.co/0pDXM07K/bandamax.png" group-title="TV || MUSICA",BANDAMAX
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="30A Music Channel" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="TV || MUSICA",30A Music Channel
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="70-80 TV" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="TV || MUSICA",70-80 TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186798.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Activa TV" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="TV || MUSICA",Activa TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186799.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="BLUES TV" tvg-logo="https://i.imgur.com/GlpYAKt.png" group-title="TV || MUSICA",BLUES TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186801.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Cadena Elite" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="TV || MUSICA",Cadena Elite
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186802.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="KandelaTV" tvg-logo="https://i.ibb.co/qY14GYJq/kandelatv.png" group-title="TV || MUSICA",KandelaTV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | BBC WORLD NEWS  HD" tvg-logo="http://miarea.vip:8080/images/716552173f971c1d71f970afe777ebad.png" group-title=" TV || NOTICIAS",NOTICIAS | BBC WORLD NEWS  HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | FOX NEWS HD" tvg-logo="http://miarea.vip:8080/images/db1fae135e1fb3f7951b7c858c59cb91.png" group-title=" TV || NOTICIAS",NOTICIAS | FOX NEWS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | CNN EN ESPANOL HD" tvg-logo="http://miarea.vip:8080/images/c59c61eb0aabfafcb920f41341601c4e.png" group-title=" TV || NOTICIAS",NOTICIAS | CNN EN ESPANOL HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | CNN ENGLISH HD" tvg-logo="http://miarea.vip:8080/images/57c6fd1ead5c64211481a7d3b1b95204.png" group-title=" TV || NOTICIAS",NOTICIAS | CNN ENGLISH HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186808.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="NOTICIAS | FRANCE 24" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/NOTICIAS/FRANCE24.png" group-title=" TV || NOTICIAS",NOTICIAS | FRANCE 24
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX| CANAL 5" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="TV || MEXICO",MX| CANAL 5
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA 7 " tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="TV || MEXICO",MX| AZTECA 7 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX| GALA TV " tvg-logo="https://static.epg.best/mx/GalaTV9Nacional.mx.png" group-title="TV || MEXICO",MX| GALA TV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX| CANAL ONCE " tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="TV || MEXICO",MX| CANAL ONCE 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX| APRENDE MX" tvg-logo="https://aprende.gob.mx/wp-content/uploads/2021/08/logo-aprendemx.png" group-title="TV || MEXICO",MX| APRENDE MX
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CORAZON " tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="TV || NOVELAS",CORAZON 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA UNO FHD" tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png" group-title="TV || MEXICO",MX| AZTECA UNO FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA INTERACIONAL HD" tvg-logo="http://miarea.vip:8080/images/c5654575b4ff37f9637df3e04e86738d.png" group-title="TV || MEXICO",MX| AZTECA INTERACIONAL HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX| IMAGEN TV" tvg-logo="http://miarea.vip:8080/images/f8bc7bb05f3275b810bfe807df15e42c.png" group-title="TV || MEXICO",MX| IMAGEN TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | GOL PERU " tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" g
+roup-title="TV || PERU",Peru | GOL PERU 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | America HD" tvg-logo="http://miarea.vip:8080/images/340038c94c7e83517f02e51ac9178a41.png" group-title="TV || PERU",Peru | America HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | WILLAX HD" tvg-logo="http://miarea.vip:8080/images/b77f4d51b347c625deb751ca1c5ee3b1.png" group-title="TV || PERU",Peru | WILLAX HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Latina HD " tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/0/d/csm_2037-205_import_29f99179b2.png" group-title="TV || PERU",Peru | Latina HD 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | ATV HD" tvg-logo="https://i.ibb.co/pBrx0cZ8/ATV.png" group-title="TV || PERU",Peru | ATV HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Panamericana HD" tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/e/9/csm_2121-205_company_import_c75b78ddfc.png" group-title="TV || PERU",Peru | Panamericana HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | TV PERU" tvg-logo="https://i.ibb.co/Wr203Z3/Tv-PE.png" group-title="TV || PERU",Peru | TV PERU
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Peru Noticias" tvg-logo="https://i.ibb.co/5jTPW3C/TV-Per-Noticias-2019-logo.png" group-title="TV || PERU",Peru | Peru Noticias
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | RPP" tvg-logo="https://i.ibb.co/Fbfy062/rpp.png" group-title="TV || PERU",Peru | RPP
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Tv Peru" tvg-logo="https://i.ibb.co/TWmHj8D/tvperu.png" group-title="TV || PERU",Peru | Tv Peru
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | MOVISTAR DEPORTES" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="TV || PERU",Peru | MOVISTAR DEPORTES
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URU| VTV LOCAL FHD" tvg-logo="http://miarea.vip:8080/images/b83e0a7c39a2269a35077ef20174a3dc.png" group-title="TV || URUGUAY",URU| VTV LOCAL FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URU| VTV PLUS HD*" tvg-logo="http://miarea.vip:8080/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="TV || URUGUAY",URU| VTV PLUS HD*
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URU| CANAL 4   HD" tvg-logo="https://i.ibb.co/99yhw0Xn/Canal4-uy.png" group-title="TV || URUGUAY",URU| CANAL 4   HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URU| CANAL 12 MELO HD" tvg-logo="http://miarea.vip:8080/images/45c46c28d5979c91a321dd1a60c4322a.png" group-title="TV || URUGUAY",URU| CANAL 12 MELO HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URU| LA TELE HD" tvg-logo="http://miarea.vip:8080/images/974485d5939c79970df85684ce18e17c.png" group-title="TV || URUGUAY",URU| LA TELE HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URU| CANAL 10 HD" tvg-logo="https://i.ibb.co/Kx1b7vnq/Canal-10-Uruguay.png" group-title="TV || URUGUAY",URU| CANAL 10 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="https://static.epg.best/us/Pasiones.us.png" group-title="TV || NOVELAS",PASIONES HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS HD" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" group-title="TV || NOVELAS",RCN NOVELAS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186840.m3u8
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT NOVELAS FHD" tvg-logo="https://i.ibb.co/nmRS2HX/tnt-novelas.png" group-title="TV || NOVELAS",TNT NOVELAS FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS ᴴᴰ" tvg-logo="https://i.ibb.co/R7JtZLF/ut.png" group-title="TV || NOVELAS",UNIVISION TELENOVELAS ᴴᴰ
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13C " tvg-logo="https://static.epg.best/cl/13C.cl.png" group-title="TV || CHILE",CHILE | 13C 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVN 24HORAS  " tvg-logo="https://static.epg.best/cl/TVN24.cl.png" group-title="TV || CHILE",CHILE | TVN 24HORAS  
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL 13 " tvg-logo="https://static.epg.best/cl/Canal13.cl.png" group-title="TV || CHILE",CHILE | CANAL 13 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CDO PREMIUM" tvg-logo="https://appnew.megainfoapp.com/files/1/CDO.png" group-title="TV || CHILE",CHILE | CDO PREMIUM
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CHILEVISION" tvg-logo="https://static.epg.best/cl/Chilevision.cl.png" group-title="TV || CHILE",CHILE | CHILEVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | MEGA " tvg-logo="https://static.epg.best/cl/Mega.cl.png" group-title="TV || CHILE",CHILE | MEGA 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVN " tvg-logo="https://static.epg.best/cl/TVN.cl.png" group-title="TV || CHILE",CHILE | TVN 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SCOOBY DOO" tvg-logo="http://miarea.vip:8080/images/2fbf71494119523c2792c96f4ab1599f.png" group-title="TV || 24/7 INFANTILES",24/7 | SCOOBY DOO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BOB ESPONJA" tvg-logo="https://i.postimg.cc/HsDvFdhW/bob.png" group-title="TV || 24/7 INFANTILES",24/7 | BOB ESPONJA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL GT" tvg-logo="http://miarea.vip:8080/images/36a1cfcf182aa38c287380b404793418.png" group-title="TV || 24/7 INFANTILES",24/7 | DRAGON BALL GT
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z " tvg-logo="https://i.ibb.co/7rrD3RB/dragon-frezzer.png" group-title="TV || 24/7 INFANTILES",24/7 | DRAGON BALL Z 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS PICAPIEDRAS" tvg-logo="https://i.ibb.co/wcn3sFK/PICAPIEDRA.png" group-title="TV || 24/7 INFANTILES",24/7 | LOS PICAPIEDRAS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PEPPA PIG" tvg-logo="https://i.ibb.co/m92ZT9b/Peppa-Pig-Logo.png" group-title="TV || 24/7 INFANTILES",24/7 | PEPPA PIG
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DESENCANTO" tvg-logo="http://miarea.vip:8080/images/b16a5496384942e89859498e0924e701.png" group-title="TV || 24/7 INFANTILES",24/7 | DESENCANTO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULIN COLORADO ANIMADO" tvg-logo="https://i.ibb.co/1KHxzQY/chapulin-animado.png" group-title="TV || 24/7 INFANTILES",24/7 | EL CHAPULIN COLORADO ANIMADO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL SUPER" tvg-logo="https://i.ibb.co/k32CM48/Dragon-Ball-Super.png" group-title="TV || 24/7 INFANTILES",24/7 | DRAGON BALL SUPER
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL 8" tvg-logo="https://i.ibb.co/LNDxTjG/chavo.png" group-title="TV || 24/7 INFANTILES",24/7 | EL CHAVO DEL 8
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | POWER RANGERS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/MMPR_Era_Logo.png" group-title="TV || 24/7 INFANTILES",24/7 | POWER RANGERS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | HORA DE AVENTURA" tvg-logo="https://i.ibb.co/S7WxYPkg/hora-de-aventura.png" group-title="TV || 24/7 INFANTILES",24/7 | HORA DE AVENTURA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | TOM Y JERRY" tvg-logo="https://i.ibb.co/RjtbS0W/tom.png" group-title="TV || 24/7 INFANTILES",24/7 | TOM Y JERRY
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | GRAVITY FALLS" tvg-logo="https://i.ibb.co/GvXnYXR/gravity.png" group-title="TV || 24/7 INFANTILES",24/7 | GRAVITY FALLS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SUPERSONICOS" tvg-logo="https://i.ibb.co/B5t5hW2X/Los-supersonicos.png" group-title="TV || 24/7 INFANTILES",24/7 | LOS SUPERSONICOS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THUNDERCATS" tvg-logo="https://www.kindpng.com/picc/m/83-838269_thundercats-logo-png-transparent-png.png" group-title="TV || 24/7 INFANTILES",24/7 | THUNDERCATS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LAURA BOZZO" tvg-logo="https://i.ibb.co/4nNJZ9X3/Laura.png" group-title="TV || 24/7 SERIES",24/7 | LAURA BOZZO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA HORA PICO" tvg-logo="https://cdn-s3.sidereel.com/tv_shows/52895/giant_2x/papa.png" group-title="TV || 24/7 SERIES",24/7 | LA HORA PICO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSONS" tvg-logo="https://i.ibb.co/dMQ24v6/simpson.png" group-title="TV || 24/7 SERIES",24/7 | LOS SIMPSONS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE GOOD DOCTOR" tvg-logo="https://i.ibb.co/ZSLwgBh/Doctor.png" group-title="TV || 24/7 SERIES",24/7 | THE GOOD DOCTOR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186870.m3u8
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="ESPAÑA | #VAMOS " tvg-logo="https://i.ibb.co/9mMxg0x7/Vamos.png" group-title="TV || ESPAÑA",ESPAÑA | #VAMOS 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186871.m3u8
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ESPAÑA | ANTENA 3 HD" tvg-logo="https://i.ibb.co/FqXvTsjp/Antena-3.png" group-title="TV || ESPAÑA",ESPAÑA | ANTENA 3 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186872.m3u8
+#EXTINF:-1 tvg-id="Somos" tvg-name="ESPAÑA | SOMOS" tvg-logo="https://i.ibb.co/Mk3MFs09/Somos.png" group-title="TV || ESPAÑA",ESPAÑA | SOMOS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186873.m3u8
+#EXTINF:-1 tvg-id="Boing" tvg-name="ESPAÑA | BOING" tvg-logo="https://i.ibb.co/fYvN6Lxt/Boing.png" group-title="TV || ESPAÑA",ESPAÑA | BOING
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186874.m3u8
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ESPAÑA | CANAL MALAGA" tvg-logo="https://i.ibb.co/xt0Jtm8w/malaga.png" group-title="TV || ESPAÑA",ESPAÑA | CANAL MALAGA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186875.m3u8
+#EXTINF:-1 tvg-id="Clan" tvg-name="ESPAÑA | CLAN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="TV || ESPAÑA",ESPAÑA | CLAN
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186876.m3u8
+#EXTINF:-1 tvg-id="La 2" tvg-name="ESPAÑA | LA 2 HD" tvg-logo="https://i.ibb.co/3mffsxMJ/La-2.png" group-title="TV || ESPAÑA",ESPAÑA | LA 2 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186877.m3u8
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="ESPAÑA | LA SEXTA HD" tvg-logo="https://i.ibb.co/DH8Hr0XW/La-Sexta.png" group-title="TV || ESPAÑA",ESPAÑA | LA SEXTA HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186878.m3u8
+#EXTINF:-1 tvg-id="Mega" tvg-name="ESPAÑA | MEGA HD" tvg-logo="https://i.ibb.co/FbmGJC7g/MEGA.png" group-title="TV || ESPAÑA",ESPAÑA | MEGA HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186879.m3u8
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ESPAÑA | MUNDO TOROS TV" tvg-logo="https://i.ibb.co/VWKVHvb/logo-mundotoro-797.png" group-title="TV || ESPAÑA",ESPAÑA | MUNDO TOROS TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186880.m3u8
+#EXTINF:-1 tvg-id="Nova" tvg-name="ESPAÑA | NOVA " tvg-logo="https://i.ibb.co/gLwWXS8R/Nova.png" group-title="TV || ESPAÑA",ESPAÑA | NOVA 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186881.m3u8
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="ESPAÑA | TELECINCO" tvg-logo="https://i.ibb.co/v49ZrPN0/Telecinco.png" group-title="TV || ESPAÑA",ESPAÑA | TELECINCO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186882.m3u8
+#EXTINF:-1 tvg-id="Ten" tvg-name="ESPAÑA | TEN CHANNEL" tvg-logo="http://miarea.vip:8080/images/0c73a93c8ee90e4b1429f82782ebfb93.png" group-title="TV || ESPAÑA",ESPAÑA | TEN CHANNEL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186883.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | GALAVISION MIAMI" tvg-logo="https://i.ibb.co/Q8TCJT7/galavision.png" group-title="TV || ENTRETENIMIENTO",ENTRE | GALAVISION MIAMI
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO MIAMI" tvg-logo="https://i.ibb.co/PvNKnXDD/Telemundo-Miami.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO MIAMI
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO SAN FRANCISCO" tvg-logo="https://i.ibb.co/F2mG3wV/Telemundo-San-Francisco.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO SAN FRANCISCO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO NEW YORK" tvg-logo="https://i.ibb.co/1YMx4Qzk/Telemundo-New-York.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO NEW YORK
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186904.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | UNIVISION CHICAGO" tvg-logo="https://i.ibb.co/SyDf5Lw/Univision-Chicago-200-px.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION CHICAGO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186905.m3u8
+#EXTINF:-1 tvg-id="0601" tvg-name="DISCOVERY HOME & HEALTH (LAT)" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="TV || DOCUMENTALES",DISCOVERY HOME & HEALTH (LAT)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186991.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="DISCOVERY HOME AND HEALTH (MEX)" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="TV || DOCUMENTALES",DISCOVERY HOME AND HEALTH (MEX)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | UNIVISION MIAMI" tvg-logo="https://i.ibb.co/W33Cxwv/Univisionmiami.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION MIAMI
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CNC MEDELLIN" tvg-logo="https://canalcncmedellin.com/wp-content/uploads/2023/10/Logo-Canal-CNC-Barra-2.png" group-title="TV || COLOMBIA",COL | CNC MEDELLIN
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CALITV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="TV || COLOMBIA",COL | CALITV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CABLENOTICIAS" tvg-logo="http://miarea.vip:8080/images/3aa88e47a7c7b0de696013be0b091523.png" group-title="TV || COLOMBIA",COL | CABLENOTICIAS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL 8 TV+" tvg-logo="https://i.ibb.co/TMSj2Kd/88-m3u.png" group-title="TV || COLOMBIA",COL | CANAL 8 TV+
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | MULTICANAL" tvg-logo="https://multicanaltvcali.com/wp-content/uploads/2018/07/multicanal.png" group-title="TV || COLOMBIA",COL | MULTICANAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEMEDELLIN" tvg-logo="https://i.ibb.co/HgmVynZ/tm.png" group-title="TV || COLOMBIA",COL | TELEMEDELLIN
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | TU KANAL" tvg-logo="https://i.ibb.co/4Rgm4BKk/tu-kanal.png" group-title="TV || COLOMBIA",COL | TU KANAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187031.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Prensa Latina TV " tvg-logo="https://www.prensa-latina.cu/wp-content/uploads/2021/05/nombre-generico-prensa-latina-384x155.png" group-title="TV || CUBA",Prensa Latina TV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187034.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Radio y Televisión Martí " tvg-logo="https://i.ibb.co/5v9FN41/marti.png" group-title="TV || CUBA",Radio y Televisión Martí 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187035.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Buena TV" tvg-logo="" group-title="TV || PUERTO RICO",Buena TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187036.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="DNJ TV" tvg-logo="" group-title="TV || PUERTO RICO",DNJ TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187037.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Noti Uno Puerto Rico" tvg-logo="" group-title="TV || PUERTO RICO",Noti Uno Puerto Rico
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187038.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Radio Isla TV" tvg-logo="" group-title="TV || PUERTO RICO",Radio Isla TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187039.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Telenorte" tvg-logo="" group-title="TV || PUERTO RICO",Telenorte
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187040.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="TeleOnce" tvg-logo="" group-title="TV || PUERTO RICO",TeleOnce
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187041.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="The Retro Channel" tvg-logo="" group-title="TV || PUERTO RICO",The Retro Channel
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187042.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="WAPA-TV" tvg-logo="" group-title="TV || PUERTO RICO",WAPA-TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187043.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="WAPA-DT2 (WAPA Deportes)" tvg-logo="" group-title="TV || PUERTO RICO",WAPA-DT2 (WAPA Deportes)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187044.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-name="WIPR" tvg-logo="" group-title="TV || PUERTO RICO",WIPR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187045.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="WWXY-DT1 (Boricua TV)" tvg-logo="" group-title="TV || PUERTO RICO",WWXY-DT1 (Boricua TV)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187047.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="MásTV Canal 23" tvg-logo="" group-title="TV || PUERTO RICO",MásTV Canal 23
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187048.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="WJPX-DT1" tvg-logo="" group-title="TV || PUERTO RICO",WJPX-DT1
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187049.m3u8
+#EXTINF:-1 tvg-id="Ec10.Ec" tvg-name="ECUADOR | TC TELEVISION" tvg-logo="https://i.ibb.co/CP3FsZL/TC.png" group-title="TV || ECUADOR",ECUADOR | TC TELEVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187050.m3u8
+#EXTINF:-1 tvg-id="Ec10.Ec" tvg-name="ECUADOR | TC TELEVISION HD" tvg-logo="https://i.ibb.co/CP3FsZL/TC.png" group-title="TV || ECUADOR",ECUADOR | TC TELEVISION HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187051.m3u8
+#EXTINF:-1 tvg-id="Ec10.Ec" tvg-name="ECUADOR | TC TELEVISION SD" tvg-logo="https://i.ibb.co/CP3FsZL/TC.png" group-title="TV || ECUADOR",ECUADOR | TC TELEVISION SD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187052.m3u8
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="ECUADOR | ECUAVISA" tvg-logo="https://i.ibb.co/0DpQ2vM/ecuavisa-costa.png" group-title="TV || ECUADOR",ECUADOR | ECUAVISA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187053.m3u8
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="ECUADOR | ECUAVISA HD" tvg-logo="https://i.ibb.co/0DpQ2vM/ecuavisa-costa.png" group-title="TV || ECUADOR",ECUADOR | ECUAVISA HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187054.m3u8
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="ECUADOR | ECUAVISA FHD" tvg-logo="https://i.ibb.co/qspZYRT/ecuavisa-sierra.png" group-title="TV || ECUADOR",ECUADOR | ECUAVISA FHD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187055.m3u8
+#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="ECUADOR | TELEAMAZONAS" tvg-logo="https://i.ibb.co/LvCDDqq/teleamazonas.png" group-title="TV || ECUADOR",ECUADOR | TELEAMAZONAS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187056.m3u8
+#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="ECUADOR | TELEAMAZONAS HD" tvg-logo="https://i.ibb.co/LvCDDqq/teleamazonas.png" group-title="TV || ECUADOR",ECUADOR | TELEAMAZONAS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187057.m3u8
+#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="ECUADOR | TELEAMAZONAS SD" tvg-logo="https://i.ibb.co/LvCDDqq/teleamazonas.png" group-title="TV || ECUADOR",ECUADOR | TELEAMAZONAS SD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187058.m3u8
+#EXTINF:-1 tvg-id="Ec4HD.Ec" tvg-name="ECUADOR | RTS" tvg-logo="https://i.ibb.co/3MHxDbB/rts.png" group-title="TV || ECUADOR",ECUADOR | RTS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187059.m3u8
+#EXTINF:-1 tvg-id="Ec4HD.Ec" tvg-name="ECUADOR | RTS HD*" tvg-logo="https://i.ibb.co/3MHxDbB/rts.png" group-title="TV || ECUADOR",ECUADOR | RTS HD*
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187060.m3u8
+#EXTINF:-1 tvg-id="TVC.Ec" tvg-name="ECUADOR | TVC TELEVICENTRO" tvg-logo="https://i.ibb.co/KD3LYvn/tvc.png" group-title="TV || ECUADOR",ECUADOR | TVC TELEVICENTRO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TVC TELEVICENTRO HD" tvg-logo="https://i.ibb.co/KD3LYvn/tvc.png" group-title="TV || ECUADOR",ECUADOR | TVC TELEVICENTRO HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187062.m3u8
+#EXTINF:-1 tvg-id="OROMAR" tvg-name="ECUADOR | OROMAR TV" tvg-logo="https://i.ibb.co/Wxzs0Tp/oromar.png" group-title="TV || ECUADOR",ECUADOR | OROMAR TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | OROMAR TV HD" tvg-logo="https://i.ibb.co/Wxzs0Tp/oromar.png" group-title="TV || ECUADOR",ECUADOR | OROMAR TV HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | GAMAVISION" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ECUADOR/GAMAVISION.png" group-title="TV || ECUADOR",ECUADOR | GAMAVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUADOR TV" tvg-logo="https://i.ibb.co/0py6cSj8/Ecuador-tv.png" group-title="TV || ECUADOR",ECUADOR | ECUADOR TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CANAL UNO" tvg-logo="https://i.ibb.co/LDLpWfb2/Canal-uno.png" group-title="TV || ECUADOR",ECUADOR | CANAL UNO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TELERAMA " tvg-logo="https://i.ibb.co/5xKPqdZ6/Telerama.png" group-title="TV || ECUADOR",ECUADOR | TELERAMA 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTU" tvg-logo="https://i.ibb.co/r4HBvd4/Rtu.png" group-title="TV || ECUADOR",ECUADOR | RTU
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TV MANABITA" tvg-logo="https://i.ibb.co/8Lk1Gbfc/TV-MANABITA.png" group-title="TV || ECUADOR",ECUADOR | TV MANABITA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | MANAVISION" tvg-logo="https://i.ibb.co/DWTjCc1/MANAVISION.png" group-title="TV || ECUADOR",ECUADOR | MANAVISION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | EDUCA" tvg-logo="https://i.ibb.co/Wz175Jp/educa.png" group-title="TV || ECUADOR",ECUADOR | EDUCA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (QUITO)*" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (QUITO)*
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (GUAYAQUIL) *" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (GUAYAQUIL) *
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (IBARRA)*" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (IBARRA)*
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (TULCAN)*" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (TULCAN)*
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ANTENA UNO RADIO VIDEO*" tvg-logo="https://cdn-profiles.tunein.com/s124276/images/logog.png" group-title="TV || ECUADOR",ECUADOR | ANTENA UNO RADIO VIDEO*
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AUSTRAL TV*" tvg-logo="https://i.ibb.co/kVbGCFFF/AUTRAL-TV.png" group-title="TV || ECUADOR",ECUADOR | AUSTRAL TV*
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECOTEL TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Ecotel-TV-en-vivo-Online.png" group-title="TV || ECUADOR",ECUADOR | ECOTEL TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUASTEREO TV" tvg-logo="https://ecuastereo.com/wp-content/uploads/2021/08/logoecuastereo-e1679012091684.png" group-title="TV || ECUADOR",ECUADOR | ECUASTEREO TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | UNSION TV" tvg-logo="https://i.ibb.co/5hkCxjF1/UNSION.png" group-title="TV || ECUADOR",ECUADOR | UNSION TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | FRECUENCIA MUSICAL TV " tvg-logo="https://i.ibb.co/Jkzb31Z/FRECUENCIA-MUSICAL.png" group-title="TV || ECUADOR",ECUADOR | FRECUENCIA MUSICAL TV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTV RIOBAMBA" tvg-logo="https://i.ibb.co/cXgT5TH9/RTV.png" group-title="TV || ECUADOR",ECUADOR | RTV RIOBAMBA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | HECHOS" tvg-logo="https://i.ibb.co/5WXbRSW/3-Logo-Hechos-Nuevo2.png" group-title="TV || ECUADOR",ECUADOR | HECHOS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | INFINITA TV " tvg-logo="https://i.ibb.co/GF1QpWc/INFINITA.png" group-title="TV || ECUADOR",ECUADOR | INFINITA TV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | LA DOLOROSA RADIO " tvg-logo="https://i.ibb.co/0c1Zv5S/la-dolorosa.png" group-title="TV || ECUADOR",ECUADOR | LA DOLOROSA RADIO 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | PLUS TV" tvg-logo="https://i.ibb.co/R0pxwxF/Plus-tv.png" group-title="TV || ECUADOR",ECUADOR | PLUS TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | LATACUNGA TV" tvg-logo="https://i.ibb.co/FkGmxJ33/Latacunga-tv.png" group-title="TV || ECUADOR",ECUADOR | LATACUNGA TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | MAJESTAD TV (Santo Domingo)" tvg-logo="https://i.ibb.co/Fw8rSjn/majestad.png" group-title="TV || ECUADOR",ECUADOR | MAJESTAD TV (Santo Domingo)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO FANTASTICA 98.9" tvg-logo="https://i.ibb.co/pK6CWhX/fantastica.png" group-title="TV || ECUADOR",ECUADOR | RADIO FANTASTICA 98.9
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | MULTICANAL CATAMAYO " tvg-logo="https://4.bp.blogspot.com/-HAV870gdo80/XoE1dXsyK6I/AAAAAAAAAx4/f5LT4C9r9KIHLnOzFzUPLYlq_-ZwWhghgCLcBGAsYHQ/s1600/multicanal.png" group-title="TV || ECUADOR",ECUADOR | MULTICANAL CATAMAYO 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | NORTVISION " tvg-logo="https://i.ibb.co/pzYrtK6/NORVISION.jpg" group-title="TV || ECUADOR",ECUADOR | NORTVISION 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CIRACU TV" tvg-logo="https://ciracu.org/wp-content/uploads/2021/12/CIRACU-HORIZONTAL-1024x425.png" group-title="TV || ECUADOR",ECUADOR | CIRACU TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | METROPOLI MEDIOS" tvg-logo="https://i.ibb.co/Vcrx00Nh/metropoli.png" group-title="TV || ECUADOR",ECUADOR | METROPOLI MEDIOS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO ALEGRIA" tvg-logo="https://i0.wp.com/radioalegriafm.com/wp-content/uploads/2021/01/logo.png" group-title="TV || ECUADOR",ECUADOR | RADIO ALEGRIA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO CUENCA ESTEREO " tvg-logo="https://i.ibb.co/jGXWS3s/cUENCA.png" group-title="TV || ECUADOR",ECUADOR | RADIO CUENCA ESTEREO 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | MARIELA TV" tvg-logo="https://i.ibb.co/Kp4YQhhC/Mariela-tv.png" group-title="TV || ECUADOR",ECUADOR | MARIELA TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO METROPOLITANA " tvg-logo="https://i.ibb.co/y041MgS/m-ETROPOLITANA.png" group-title="TV || ECUADOR",ECUADOR | RADIO METROPOLITANA 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO MG STEREO" tvg-logo="https://i.postimg.cc/prN6Gm6b/mg-png.png" group-title="TV || ECUADOR",ECUADOR | RADIO MG STEREO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO TV PJ " tvg-logo="https://i.ibb.co/pJkWrvP/PJ-TV.jpg" group-title="TV || ECUADOR",ECUADOR | RADIO TV PJ 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RIOBAMBA CITY RADIO TV" tvg-logo="https://i.ibb.co/QMN9SSY/RIOBAMBA.png" group-title="TV || ECUADOR",ECUADOR | RIOBAMBA CITY RADIO TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | BLOOM TV" tvg-logo="https://i.ibb.co/6pWthbN/BLOOM-TV-FONDOS.png" group-title="TV || ECUADOR",ECUADOR | BLOOM TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | SCANDALO TV" tvg-logo="https://scandalotv.com/wp-content/uploads/2022/10/cropped-ISO-STV-01-1.jpg" group-title="TV || ECUADOR",ECUADOR | SCANDALO TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | SEÑAL POSITIVA" tvg-logo="https://senalpositiva.com/wp-content/uploads/2021/02/logo-nuevo.png" group-title="TV || ECUADOR",ECUADOR | SEÑAL POSITIVA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | SONO ONDA" tvg-logo="https://sonoonda.com/wp-content/uploads/2022/01/cropped-cropped-cropped-cropped-215853981_1495774530757901_6841612693650402946_n.png" group-title="TV || ECUADOR",ECUADOR | SONO ONDA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | SPLENDIDA (ALAUSI) " tvg-logo="https://i.ibb.co/ssktdKW/Splendida.png" group-title="TV || ECUADOR",ECUADOR | SPLENDIDA (ALAUSI) 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | GM7 DIGITAL (Azogues)" tvg-logo="https://i.ibb.co/ns9RYhVF/GM7.png" group-title="TV || ECUADOR",ECUADOR | GM7 DIGITAL (Azogues)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TELEVISION PURUWA HD " tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="TV || ECUADOR",ECUADOR | TELEVISION PURUWA HD 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TU CANCHA" tvg-logo="https://i.ibb.co/5jTqh0L/CANCHA.jpg" group-title="TV || ECUADOR",ECUADOR | TU CANCHA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CURIQUINGUE TV" tvg-logo="https://i.imgur.com/oukGx28.png" group-title="TV || ECUADOR",ECUADOR | CURIQUINGUE TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TV COLOR (Latacunga) " tvg-logo="https://i.ibb.co/X5R6r5K/tv-color.png" group-title="TV || ECUADOR",ECUADOR | TV COLOR (Latacunga) 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | VOS & TV " tvg-logo="https://image.roku.com/developer_channels/prod/bc933d697863b482a1e1fa97a89d5989725faa476070e7762467eb4cc2674a8a.png" group-title="TV || ECUADOR",ECUADOR | VOS & TV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | WUAN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Wuan%2B_logo.png" group-title="TV || ECUADOR",ECUADOR | WUAN+
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ZARACAY TV" tvg-logo="https://image.roku.com/developer_channels/prod/dba9268371f13e2e9f08e6dbf96d01a01edaf5d096949bd00c8cefc22151bc89.png" group-title="TV || ECUADOR",ECUADOR | ZARACAY TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | HGTV" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/HGTV.png" group-title="TV || ENTRETENIMIENTO",ENTRE | HGTV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 ENTRETENCION" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="TV || CHILE",CHILE | 13 ENTRETENCION
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 FESTIVAL" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="TV || CHILE",CHILE | 13 FESTIVAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 HUMOR" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="TV || CHILE",CHILE | 13 HUMOR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 PRIME" tvg-logo="https://i.imgur.com/R6D228s.png" group-title="TV || CHILE",CHILE | 13 PRIME
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 REALITIES" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="TV || CHILE",CHILE | 13 REALITIES
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 TELESERIES" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="TV || CHILE",CHILE | 13 TELESERIES
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (LAT)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="TV || INFANTIL",CARTOON NETWORK (LAT)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (LAT)" tvg-logo="https://i.ibb.co/QJPFN2P/cartoonito.png" group-title="TV || INFANTIL",CARTOONITO (LAT)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187267.m3u8
+#EXTINF:-1 tvg-id="34879" tvg-name="PREMIUM | HBO FAMILY" tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO FAMILY
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/CpK7dfFc/sony-max.png" group-title="TV || CINE Y SERIES",SONY MAX
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/188810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="https://i.ibb.co/238xDh4/SONY-NOVELAS.png" group-title="TV || NOVELAS",SONY NOVELAS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/188811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CAPRICHO TV" tvg-logo="https://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png" group-title="TV || ECUADOR",ECUADOR | CAPRICHO TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/188840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABYFIRST" tvg-logo="https://i.ibb.co/xH8KR8C/babyfirts.png" group-title="TV || INFANTIL",BABYFIRST
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/188841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| AZTECA HONDURAS HD" tvg-logo="http://miarea.vip:8080/images/0b1a6fc76f16b4dff3d5a7f489dfac82.png" group-title="TV || HONDURAS",HOND| AZTECA HONDURAS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| TIGO SPORTS ᴴᴰ" tvg-logo="http://miarea.vip:8080/images/ccf6d22fc26285238508588ca5bd8f8e.png" group-title="TV || HONDURAS",HOND| TIGO SPORTS ᴴᴰ
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| CANAL 5 HD" tvg-logo="http://miarea.vip:8080/images/62b45420a109f97a8c1577d12b4bd65f.png" group-title="TV || HONDURAS",HOND| CANAL 5 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| CANAL 6 " tvg-logo="http://miarea.vip:8080/images/541195d2c75ff8501f295d453b9ff116.png" group-title="TV || HONDURAS",HOND| CANAL 6 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| CANAL 11 HD" tvg-logo="http://miarea.vip:8080/images/8fb4c360aae25a72bbfe9049d20c782d.png" group-title="TV || HONDURAS",HOND| CANAL 11 HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| 45 TV" tvg-logo="http://miarea.vip:8080/images/a5e990548ed2bd12867f5072a9b0f89c.png" group-title="TV || HONDURAS",HOND| 45 TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| TODO DEPORTES HD" tvg-logo="http://miarea.vip:8080/images/f7bd097898771ccf6115f344b1cd0429.png" group-title="TV || HONDURAS",HOND| TODO DEPORTES HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| TVC HONDURAS HD" tvg-logo="http://miarea.vip:8080/images/9dd6b7420515c0b8154974ca876ae8e2.png" group-title="TV || HONDURAS",HOND| TVC HONDURAS HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| GIRASOL TV" tvg-logo="https://girasolradiotvhn.com/wp-content/uploads/2020/10/canal-girasoltv-logo.png" group-title="TV || HONDURAS",HOND| GIRASOL TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| Q´HUBO TV" tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="TV || HONDURAS",HOND| Q´HUBO TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOND| EBENEZER TV" tvg-logo="http://miarea.vip:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="TV || HONDURAS",HOND| EBENEZER TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png" group-title="TV || CINE Y SERIES",DE PELICULA PLUS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/189810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="http://miarea.vip:8080/images/6d3f65b082e7e4c09f5eefbc9982c276.png" group-title="TV || BRASIL",GLOBO SP HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/190918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="http://miarea.vip:8080/images/a4eceecf5d76d39581d4125e1e34754a.png" group-title="TV || CINE Y SERIES",CINE LATINO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/191821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION  | ENLACE HD" tvg-logo="https://i.ibb.co/6FPhC8Z/ENLACE.jpg" group-title="TV || RELIGION",RELIGION  | ENLACE HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/195304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETRO TV" tvg-logo="https://i.ibb.co/7S3s2w3/LOGO-RETRO-TV-ONLINE-NUEVO.png" group-title="TV || CINE Y SERIES",RETRO TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/196959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETROX TV" tvg-logo="https://i.ibb.co/SmwycbM/RETROX.png" group-title="TV || CINE Y SERIES",RETROX TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/196960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | FDF HD" tvg-logo="https://i.ibb.co/9bLn724/Fdf.png" group-title="TV || ESPAÑA",ESPAÑA | FDF HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/197026.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine HD" tvg-logo="http://miarea.vip:8080/images/276f2d0c63b27c9605a6863cd9146980.png" group-title="TV || CINE Y SERIES",Ultra Cine HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/226539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico HD" tvg-logo="http://miarea.vip:8080/images/d80a12df734b69198a6a1f45a7c4eac6.png" group-title="TV || CINE Y SERIES",Ultra Clasico HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/226540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Docu HD" tvg-logo="http://miarea.vip:8080/images/1e10ab86627913d8678af0fc68e0f50b.png" group-title="TV || DOCUMENTALES",Ultra Docu HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/226541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Familia HD" tvg-logo="http://miarea.vip:8080/images/abc47a0170f42ff8fccfee4b2c641bae.png" group-title="TV || CINE Y SERIES",Ultra Familia HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/226542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA KIDZ HD" tvg-logo="http://miarea.vip:8080/images/1315c18ae353d5e757737e8b1785a302.png" group-title="TV || INFANTIL",ULTRA KIDZ HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/226543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Macho HD" tvg-logo="http://miarea.vip:8080/images/aedd7b3ebaebbf3dcd79734685a37385.png" group-title="TV || CINE Y SERIES",Ultra Macho HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/226544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Mex HD" tvg-logo="http://miarea.vip:8080/images/a6085afb09acfeaf1eeb3813b0c9e89f.png" group-title="TV || CINE Y SERIES",Ultra Mex HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/226545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="https://i.ibb.co/1THgyhf/real.png" group-title="TV || DEPORTES EUROPA",REAL MADRID TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/249485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TU RADIO" tvg-logo="https://turadioec.com/wp-content/uploads/2022/02/TU-1024x1024.png" group-title="TV || ECUADOR",ECUADOR | TU RADIO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/250306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE MEXICANO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="TV || CINE Y SERIES",CINE MEXICANO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/250699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Man Es German" tvg-logo="https://image.tmdb.org/t/p/w500/6nhj9wysE3kqWHt0mfYDQ6qxYLo.jpg" group-title="TV || 24/7 NOVELAS",24/7 El Man Es German
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cafe con aroma de mujer" tvg-logo="https://es.web.img2.acsta.net/pictures/17/05/04/19/13/462204.jpg" group-title="TV || 24/7 NOVELAS",24/7 Cafe con aroma de mujer
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bloque de busqueda" tvg-logo="https://image.tmdb.org/t/p/w94_and_h141_bestv2/1LU5gO3gVOm9IgxLfhSBpMUVYW6.jpg" group-title="TV || 24/7 NOVELAS",24/7 Bloque de busqueda
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 En la piel de Alicia" tvg-logo="https://image.tmdb.org/t/p/w500/ruKyT6ese4jBNNMGgdDXRPARtwE.jpg" group-title="TV || 24/7 NOVELAS",24/7 En la piel de Alicia
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Dama de Rosa" tvg-logo="https://pics.filmaffinity.com/la_dama_de_rosa-731434068-large.jpg" group-title="TV || 24/7 NOVELAS",24/7 La Dama de Rosa
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La hija del mariachi" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/a9J1rl8X4klFNMLTFGIJIHIjXgf.jpg" group-title="TV || 24/7 NOVELAS",24/7 La hija del mariachi
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Madrastra" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/kt8bb1jcMlcYObzPpoQYV8Adf9p.jpg" group-title="TV || 24/7 NOVELAS",24/7 La Madrastra
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Piloto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/upX2fGyD4tPjJJLIOuJlB3yp2OK.jpg" group-title="TV || 24/7 NOVELAS",24/7 La Piloto
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Prepago" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/s8f5VSb1ANC9rjLgcS3lJLuK12W.jpg" group-title="TV || 24/7 NOVELAS",24/7 La Prepago
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Reina Del Sur" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg" group-title="TV || 24/7 NOVELAS",24/7 La Reina Del Sur
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Leandro Diaz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/d6voDsM0it0GPnhfzXiHWLaX0ff.jpg" group-title="TV || 24/7 NOVELAS",24/7 Leandro Diaz
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Maria la del barrio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xGMquh71mh3w3QzUrl1AhCniHys.jpg" group-title="TV || 24/7 NOVELAS",24/7 Maria la del barrio
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Maria Mercedes" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3sMyQjtS7H9Vxxo6vCMPoHz6vHD.jpg" group-title="TV || 24/7 NOVELAS",24/7 Maria Mercedes
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro El Escamoso" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v0DhAsHHiFpMmbe6zWG6F15gh4f.jpg" group-title="TV || 24/7 NOVELAS",24/7 Pedro El Escamoso
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Señora Acero" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vXhBxsvpW2mGuXRbIK5Yazdp8Zg.jpg" group-title="TV || 24/7 NOVELAS",24/7 Señora Acero
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sobreviviendo A Escobar" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/97xpke32aNz0XSl6OHLilu9GK63.jpg" group-title="TV || 24/7 NOVELAS",24/7 Sobreviviendo A Escobar
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Xica Da Silva" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/nildSBtxkstaw0h4rSI7gVZTrMU.jpg" group-title="TV || 24/7 NOVELAS",24/7 Xica Da Silva
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yo Soy Betty La Fea" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg" group-title="TV || 24/7 NOVELAS",24/7 Yo Soy Betty La Fea
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/253286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | PASION TV DIGITAL" tvg-logo="https://i.ibb.co/NmxK7Cj/Pasion-Tv-Digital.png" group-title="TV || ECUADOR",ECUADOR | PASION TV DIGITAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/282562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | UNIANDES RADIO TV*" tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="TV || ECUADOR",ECUADOR | UNIANDES RADIO TV*
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/285493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | LA PERLA TV" tvg-logo="https://i.ibb.co/2vT4b0t/PERLA.png" group-title="TV || ECUADOR",ECUADOR | LA PERLA TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/285494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECDF*" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ECUADOR/ECDF.png" group-title="TV || ECUADOR",ECUADOR | ECDF*
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECDF" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ECUADOR/ECDF.png" group-title="TV || ECUADOR",ECUADOR | ECDF
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/187082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| SER TV HD" tvg-logo="http://miarea.vip:8080/images/0286094a800fb5397932fae2165f4251.png" group-title="TV || PANAMA",PANAMA| SER TV HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/296098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| ECO TV HD" tvg-logo="https://i.ibb.co/B3Q85VL/eco.png" group-title="TV || PANAMA",PANAMA| ECO TV HD
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/296099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| MAS23 TV" tvg-logo="https://mas23tv.com/wp-content/uploads/2020/02/logomas23.png" group-title="TV || PANAMA",PANAMA| MAS23 TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/296100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| RADIO ANCON" tvg-logo="https://i.ibb.co/vcb11Yt/Radio-Ancon.png" group-title="TV || PANAMA",PANAMA| RADIO ANCON
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/296101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| TIGO SPORTS PANAMA" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="TV || PANAMA",PANAMA| TIGO SPORTS PANAMA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/296102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="TV || ARGENTINA",NET TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/296484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV ARGENTINA" tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="TV || ARGENTINA",ATV ARGENTINA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/296485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 21 TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_Canal_21.jpg/480px-Logo_Canal_21.jpg" group-title="TV || ARGENTINA",CANAL 21 TV 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/296486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC " tvg-logo="https://i.ibb.co/vZjpdhB/NBC.png" group-title="TV || USA (INGLES)",NBC 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/300506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT- RAI1" tvg-logo="https://i.ibb.co/WNQyVwy2/Rai-1.png" group-title="TV || ITALIA",IT- RAI1
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/317634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT- RAI2" tvg-logo="https://i.ibb.co/Y7TxThfp/Rai-2.png" group-title="TV || ITALIA",IT- RAI2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/317635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT- RAI3" tvg-logo="https://i.ibb.co/k2b77cdn/Rai-3.png" group-title="TV || ITALIA",IT- RAI3
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/317636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT- RAI4" tvg-logo="https://i.ibb.co/8D2GF4hC/Rai-4.png" group-title="TV || ITALIA",IT- RAI4
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/317637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT- RAI5" tvg-logo="https://i.ibb.co/FqHS8Tc1/Rai-5.png" group-title="TV || ITALIA",IT- RAI5
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/317638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | EXTREMA TV" tvg-logo="https://i.ibb.co/tT2CJ3y5/Extrema.png" group-title="TV || RELIGION",RELIGION | EXTREMA TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/325255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | BETHEL TV" tvg-logo="https://i.ibb.co/DDDb75CW/Bethel.png" group-title="TV || RELIGION",RELIGION | BETHEL TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/325256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: MILANO PAVIA TV" tvg-logo="https://www.milanopavia.tv/wp-content/uploads/2020/08/MilanoPaviaTV-1.png" group-title="TV || ITALIA",IT: MILANO PAVIA TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/328854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 5" tvg-logo="http://maltaip.com/logos/Italy/canale-5-it.png" group-title="TV || ITALIA",IT: Canale 5
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/328920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Primafila 2" tvg-logo="https://i.ibb.co/LDb6JH1J/Sky-Primafila.png" group-title="TV || ITALIA",IT: SKY Primafila 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/332735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE STAR+ 2" tvg-logo="https://i.ibb.co/7dPY6Tdq/Star-Cinema.png" group-title="TV || 24/7 CINE",CINE STAR+ 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/333315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE STAR+ 3" tvg-logo="https://i.ibb.co/7dPY6Tdq/Star-Cinema.png" group-title="TV || 24/7 CINE",CINE STAR+ 3
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/333316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE STAR+ 4" tvg-logo="https://i.ibb.co/7dPY6Tdq/Star-Cinema.png" group-title="TV || 24/7 CINE",CINE STAR+ 4
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/333317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE STAR+ KIDS" tvg-logo="https://i.ibb.co/7dPY6Tdq/Star-Cinema.png" group-title="TV || 24/7 CINE",CINE STAR+ KIDS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/333318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY PREMIERE 1" tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE",SKY PREMIERE 1
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/333320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY KIDS 1" tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE",SKY KIDS 1
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/333322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY KIDS 2" tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE",SKY KIDS 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/333323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY PREMIERE 2" tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE",SKY PREMIERE 2
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/333324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY PREMIERE 3" tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE",SKY PREMIERE 3
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/333325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY PREMIERE 4" tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE",SKY PREMIERE 4
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/333326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | MAKRO DIGITAL" tvg-logo="https://makrodigitaltelevision.com/wp-content/uploads/2024/06/MakroDigital-Television-logo.png" group-title="TV || ECUADOR",ECUADOR | MAKRO DIGITAL
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/335330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TVO 23" tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="TV || EL SALVADOR",EL SALVADOR | TVO 23
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/338675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | GLITZ" tvg-logo="https://static.epg.best/mx/Glitz.mx.png" group-title="TV || ENTRETENIMIENTO",ENTRE | GLITZ
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/338677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | LIFETIME" tvg-logo="https://static.epg.best/mx/Lifetime.mx.png" group-title="TV || ENTRETENIMIENTO",ENTRE | LIFETIME
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/338678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TASTEMADE" tvg-logo="https://i.imgur.com/XDMqqSs.png" group-title="TV || DOCUMENTALES",TASTEMADE
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/338679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/Gt8VL6fq/WWE.png" group-title="TV || DEPORTES PPV (solo eventos)",WWE (SOLO EVENTOS)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/339065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOVIES 4K (01)" tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE",24/7 MOVIES 4K (01)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/339992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOVIES 4K (02)" tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE",24/7 MOVIES 4K (02)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/339993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOVIES 4K (03)" tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE",24/7 MOVIES 4K (03)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/339994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOVIES 4K (04)" tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE",24/7 MOVIES 4K (04)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/339995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOVIES 4K (05)" tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE",24/7 MOVIES 4K (05)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/339996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOVIES 4K (06)" tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE",24/7 MOVIES 4K (06)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/339997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES BATMAN" tvg-logo="https://i.postimg.cc/3NJPST2G/HBO-Movies.png" group-title="TV || 24/7 CINE",MOVIES BATMAN
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/339998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Unitel HD- La Paz" tvg-logo="https://i.ibb.co/pWfz0F9/UNITEL.png" group-title="TV || BOLIVIA",BOL | Unitel HD- La Paz
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/343168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Unitel HD - Santa Cruz" tvg-logo="https://i.ibb.co/pWfz0F9/UNITEL.png" group-title="TV || BOLIVIA",BOL | Unitel HD - Santa Cruz
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/343169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Unitel HD- Cochabamba" tvg-logo="https://i.ibb.co/pWfz0F9/UNITEL.png" group-title="TV || BOLIVIA",BOL | Unitel HD- Cochabamba
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/343170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | TVU TELEVISION UNIVERSITARIA" tvg-logo="https://i.ibb.co/5Rds9FB/tvu.png" group-title="TV || BOLIVIA",BOL | TVU TELEVISION UNIVERSITARIA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/343172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | GIGAVISION OP A" tvg-logo="https://i.ibb.co/qnKdggN/GIGAVISION.png" group-title="TV || BOLIVIA",BOL | GIGAVISION OP A
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/343173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE35mm" tvg-logo="https://i.ibb.co/5xCVhpYm/in0010.png" group-title="TV || CINE Y SERIES",CINE35mm
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/346209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="https://i.ibb.co/dM9fGPD/semillitas.png" group-title="TV || INFANTIL",SEMILLITAS
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/346210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIED TV" tvg-logo="https://i.ibb.co/RTkTrPjd/VARIED-TV.png" group-title="TV || INFANTIL",VARIED TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/346211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOCOMOTION TV" tvg-logo="https://i.ibb.co/pDWcfMr/LOCOMOTION.png" group-title="TV || INFANTIL",LOCOMOTION TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/346212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETROX + " tvg-logo="https://i.ibb.co/9mg7bydg/retrox-plus.png" group-title="TV || CINE Y SERIES",RETROX + 
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/346214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="TV || CINE Y SERIES",CINE ESTELAR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/346215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RETRO PALMARES" tvg-logo="https://i.ibb.co/VczhT8HL/tvretro-palmares.webp" group-title="TV || CINE Y SERIES",TV RETRO PALMARES
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/346216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOGOPLAY" tvg-logo="https://i.ibb.co/PGDynTwS/gogoplay.png" group-title="TV || INFANTIL",GOGOPLAY
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/346217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAKAPAKA" tvg-logo="https://i.ibb.co/L8k0yMM/pakjaaaaas.png" group-title="TV || INFANTIL",PAKAPAKA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/351849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO TAMPA" tvg-logo="https://i.ibb.co/vCXrCh49/Telemundo-tampa.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO TAMPA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/352012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | COLORADOS VISION TV" tvg-logo="https://i.ibb.co/DH4TDX99/Colorados-vision.png" group-title="TV || ECUADOR",ECUADOR | COLORADOS VISION TV
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/352013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | BACAN TE VEO" tvg-logo="https://i.ibb.co/0pZtt7FX/Bacan-te-veo.png" group-title="TV || ECUADOR",ECUADOR | BACAN TE VEO
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/352014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | IMPERIO TV (El Empalme)" tvg-logo="https://i.ibb.co/kgfsDHVr/Imperio-tv-6.png" group-title="TV || ECUADOR",ECUADOR | IMPERIO TV (El Empalme)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/352015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTR TV (La Troncal)" tvg-logo="https://i.ibb.co/wrKsnBz3/rtr-tv.png" group-title="TV || ECUADOR",ECUADOR | RTR TV (La Troncal)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/352016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TV CISNE (Nueva Loja)" tvg-logo="https://i.ibb.co/CKBydcF7/Tv-Cisne.png" group-title="TV || ECUADOR",ECUADOR | TV CISNE (Nueva Loja)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/352017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | MEL RADIO Y TV (Sucumbios)" tvg-logo="https://i.ibb.co/DfzFfGzC/mel-radio-tv.png" group-title="TV || ECUADOR",ECUADOR | MEL RADIO Y TV (Sucumbios)
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/352018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | PANTALLA CLASICA" tvg-logo="https://i.ibb.co/wKFPMwz/PANTALLA-CLASICA.png" group-title="TV || ECUADOR",ECUADOR | PANTALLA CLASICA
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/352019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TELEMAR" tvg-logo="https://i.ibb.co/n81BV4Fc/Telemar.png" group-title="TV || ECUADOR",ECUADOR | TELEMAR
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/352530.m3u8
