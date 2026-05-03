@@ -1,229 +1,147 @@
 #EXTM3U
-#EXTINF:-1,01-La Red
-http://190.110.111.26:9980/play/a03g/index.m3u8
-#EXTINF:-1 tvg-id="45126",02-TVN
-http://190.110.111.26:9980/play/a03h/index.m3u8
-#EXTINF:-1,03-Mega
-http://190.110.111.26:9980/play/a03i/index.m3u8
-#EXTINF:-1,04-CHILEVISION
-http://190.110.111.26:9980/play/a0o0/index.m3u8
-#EXTINF:-1,05-CANAL 13
-http://190.110.111.26:9980/play/a03k/index.m3u8
-#EXTINF:-1,06-TV+
-http://190.110.111.26:9980/play/a0mq/index.m3u8
-#EXTINF:-1,07-CNN Chile
-http://190.110.111.26:9980/play/a053/index.m3u8
-#EXTINF:-1,08-24 HORAS
-http://190.110.111.26:9980/play/a03t/index.m3u8
-#EXTINF:-1,09-CNN Espanol
-http://190.110.111.26:9980/play/a0hv/index.m3u8
-#EXTINF:-1,10- MEGA PLUS
-http://190.110.111.26:9980/play/a0nj/index.m3u8
-#EXTINF:-1,11-Disc-Kids
-http://190.110.111.26:9980/play/a03e/index.m3u8
-#EXTINF:-1,12-Disney Channel
-http://190.110.111.26:9980/play/a03z/index.m3u8
-#EXTINF:-1,13-Disney Jr
-http://190.110.111.26:9980/play/a0j0/index.m3u8
-#EXTINF:-1,14-NTV
-http://190.110.111.26:9980/play/a03y/index.m3u8
-#EXTINF:-1,15-BabyFirst
-http://190.110.111.26:9980/play/a0cv/index.m3u8
-#EXTINF:-1,16-ETC TV
-http://190.110.111.26:9980/play/a0ms/index.m3u8
-#EXTINF:-1,17-Cartoon Network
-http://190.110.111.26:9980/play/a0aw/index.m3u8
-#EXTINF:-1,18-ESPN
-http://190.110.111.26:9980/play/a046/index.m3u8
-#EXTINF:-1,19-ESPN 2
-http://190.110.111.26:9980/play/a0hu/index.m3u8
-#EXTINF:-1,20-ESPN 3
-http://190.110.111.26:9980/play/a06j/index.m3u8
-#EXTINF:-1,21-ESPN EXTRA HD
-http://190.110.111.26:9980/play/a0n6/index.m3u8
-#EXTINF:-1,22-ESPN 4
-http://190.110.111.26:9980/play/a0hx/index.m3u8
-#EXTINF:-1,23-Fox Sports 1
-http://190.110.111.26:9980/play/a03n/index.m3u8
-#EXTINF:-1,24-Fox Sports 2
-http://190.110.111.26:9980/play/a0iv/index.m3u8
-#EXTINF:-1,25-Fox Sports 3
-http://190.110.111.26:9980/play/a0iw/index.m3u8
-#EXTINF:-1,26-GOL TV
-http://190.110.111.26:9980/play/a0a8/index.m3u8
-#EXTINF:-1,27-TNT SPORTS 2
-http://190.110.111.26:9980/play/a03m/index.m3u8
-#EXTINF:-1,28-TNT SPORTS 3
-http://190.110.111.26:9980/play/a0it/index.m3u8
-#EXTINF:-1,29-TyC
-http://190.110.111.26:9980/play/a0a9/index.m3u8
-#EXTINF:-1,30-Teletrak
-http://190.110.111.26:9980/play/a0mv/index.m3u8
-#EXTINF:-1 tvg-id="discoveryturbo.la",31-Disc-Turbo
-http://190.110.111.26:9980/play/a06h/index.m3u8
-#EXTINF:-1,32-HBO
-http://190.110.111.26:9980/play/a063/index.m3u8
-#EXTINF:-1,33-HBO 2
-http://190.110.111.26:9980/play/a0j6/index.m3u8
-#EXTINF:-1,34-HBO Plus
-http://190.110.111.26:9980/play/a03p/index.m3u8
-#EXTINF:-1,35-HBO XTREME
-http://190.110.111.26:9980/play/a03q/index.m3u8
-#EXTINF:-1,36-HBO Family
-http://190.110.111.26:9980/play/a03r/index.m3u8
-#EXTINF:-1,37-Cinecanal
-http://190.110.111.26:9980/play/a04x/index.m3u8
-#EXTINF:-1,38-Sony
-http://190.110.111.26:9980/play/a065/index.m3u8
-#EXTINF:-1,39-MX FAMILY
-http://190.110.111.26:9980/play/a0nz/index.m3u8
-#EXTINF:-1,40-Space
-http://190.110.111.26:9980/play/a067/index.m3u8
-#EXTINF:-1,41-STAR CHANNEL
-http://190.110.111.26:9980/play/a0ir/index.m3u8
-#EXTINF:-1,42-Studio Universal
-http://190.110.111.26:9980/play/a0j1/index.m3u8
-#EXTINF:-1,43-SyFy
-http://190.110.111.26:9980/play/a0cx/index.m3u8
-#EXTINF:-1,44-FX
-http://190.110.111.26:9980/play/a068/index.m3u8
-#EXTINF:-1,45-TCM
-http://190.110.111.26:9980/play/a055/index.m3u8
-#EXTINF:-1,46-Universal
-http://190.110.111.26:9980/play/a04y/index.m3u8
-#EXTINF:-1,47-Warner
-http://190.110.111.26:9980/play/a042/index.m3u8
-#EXTINF:-1,48-TNT
-http://190.110.111.26:9980/play/a0he/index.m3u8
-#EXTINF:-1,49-Cinemax
-http://190.110.111.26:9980/play/a064/index.m3u8
-#EXTINF:-1,50-AXN
-http://190.110.111.26:9980/play/a05i/index.m3u8
-#EXTINF:-1,51-SN-TV
-http://190.110.111.26:9980/play/a0aq/index.m3u8
-#EXTINF:-1,52-Lifetime
-http://190.110.111.26:9980/play/a0cw/index.m3u8
-#EXTINF:-1,53-CINE ROMANTIC
-http://190.110.111.26:9980/play/a0i9/index.m3u8
-#EXTINF:-1,54-RCN Novelas
-http://190.110.111.26:9980/play/a01r/index.m3u8
-#EXTINF:-1,55-TNT NOVELAS
-http://190.110.111.26:9980/play/a01q/index.m3u8
-#EXTINF:-1,56-Disco-Channel
-http://190.110.111.26:9980/play/a040/index.m3u8
-#EXTINF:-1,57-Animal Planet
-http://190.110.111.26:9980/play/a041/index.m3u8
-#EXTINF:-1,58-Discovery ID
-http://190.110.111.26:9980/play/a01s/index.m3u8
-#EXTINF:-1,59-Nat Geo
-http://190.110.111.26:9980/play/a0ic/index.m3u8
-#EXTINF:-1,60-H&H
-http://190.110.111.26:9980/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="history.co",61-History
-http://190.110.111.26:9980/play/a0ec/index.m3u8
-#EXTINF:-1,62-TLC
-http://190.110.111.26:9980/play/a04m/index.m3u8
-#EXTINF:-1,63-Love Nature
-http://190.110.111.26:9980/play/a0mr/index.m3u8
-#EXTINF:-1,64-La Popular
-http://190.110.111.26:9980/play/a0bs/index.m3u8
-#EXTINF:-1,65-OrigenTv
-http://190.110.111.26:9980/play/a0hf/index.m3u8
-#EXTINF:-1,66-ClickTv Chile
-http://190.110.111.26:9980/play/a0nn/index.m3u8
-#EXTINF:-1,67-ALERCE TV
-http://190.110.111.26:9980/play/a0i6/index.m3u8
-#EXTINF:-1,68-ViaX
-http://190.110.111.26:9980/play/a0d6/index.m3u8
-#EXTINF:-1,69-Zona Latina
-http://190.110.111.26:9980/play/a0as/index.m3u8
-#EXTINF:-1,70-KARAVANATV
-http://190.110.111.26:9980/play/a0np/index.m3u8
-#EXTINF:-1,71-VCLASIC
-http://190.110.111.26:9980/play/a0nu/index.m3u8
-#EXTINF:-1,72-VCLASIC80S
-http://190.110.111.26:9980/play/a0nt/index.m3u8
-#EXTINF:-1,73-R-Cumbia
-http://190.110.111.26:9980/play/a0ni/index.m3u8
-#EXTINF:-1,74-Glitz*
-http://190.110.111.26:9980/play/a0mt/index.m3u8
-#EXTINF:-1,75-Canal E
-http://190.110.111.26:9980/play/a043/index.m3u8
-#EXTINF:-1,76-TNT SERIES
-http://190.110.111.26:9980/play/a0ku/index.m3u8
-#EXTINF:-1,78-CINE TERROR 2
-http://190.110.111.26:9980/play/a0nw/index.m3u8
-#EXTINF:-1,79-DHE
-http://190.110.111.26:9980/play/a0oe/index.m3u8
-#EXTINF:-1,80-REDBULL
-http://190.110.111.26:9980/play/a0ks/index.m3u8
-#EXTINF:-1,81-EPOCA
-http://190.110.111.26:9980/play/a0mp/index.m3u8
-#EXTINF:-1,82-Estrellas
-http://190.110.111.26:9980/play/a04o/index.m3u8
-#EXTINF:-1,83-T-VINET
-http://190.110.111.26:9980/play/a0jo/index.m3u8
-#EXTINF:-1,86-Telemundo
-http://190.110.111.26:9980/play/a0jm/index.m3u8
-#EXTINF:-1,88-City TV
-http://190.110.111.26:9980/play/a0mk/index.m3u8
-#EXTINF:-1,89-EUROCHANNEL
-http://190.110.111.26:9980/play/a0kr/index.m3u8
-#EXTINF:-1,90-13 CABLE
-http://190.110.111.26:9980/play/a0nx/index.m3u8
-#EXTINF:-1,91-SERIES PLAY
-http://190.110.111.26:9980/play/a0mj/index.m3u8
-#EXTINF:-1,92-AE Mundo
-http://190.110.111.26:9980/play/a04a/index.m3u8
-#EXTINF:-1,93-CANAL RCN
-http://190.110.111.26:9980/play/a0mu/index.m3u8
-#EXTINF:-1,95-TVE
-http://190.110.111.26:9980/play/a05d/index.m3u8
-#EXTINF:-1,96-ADN TV-RADIO
-http://190.110.111.26:9980/play/a0jv/index.m3u8
-#EXTINF:-1,97-France 24
-http://190.110.111.26:9980/play/a01t/index.m3u8
-#EXTINF:-1,98-HISTORY 2
-http://190.110.111.26:9980/play/a0k0/index.m3u8
-#EXTINF:-1,99-Enlace
-http://190.110.111.26:9980/play/a05c/index.m3u8
-#EXTINF:-1,A01-Esne TV
-http://190.110.111.26:9980/play/a0b4/index.m3u8
-#EXTINF:-1,A02-INTERRADIOTV FRUTILLAR
-http://190.110.111.26:9980/play/a0o2/index.m3u8
-#EXTINF:-1,A03-G-MusicTV
-http://190.110.111.26:9980/play/a0o3/index.m3u8
-#EXTINF:-1,A04-G-MoviePLAY
-http://190.110.111.26:9980/play/a0o4/index.m3u8
-#EXTINF:-1,A05-PLAY BOY
-http://190.110.111.26:9980/play/a0or/index.m3u8
-#EXTINF:-1,CARACOL
-http://190.110.111.26:9980/play/a0kw/index.m3u8
-#EXTINF:-1,CARACOLA TV
-http://190.110.111.26:9980/play/a0ok/index.m3u8
-#EXTINF:-1,GUNEI TV -GB
-http://190.110.111.26:9980/play/a0op/index.m3u8
-#EXTINF:-1,HD-01-TV+ HD
-http://190.110.111.26:9980/play/a0n1/index.m3u8
-#EXTINF:-1,HD-02-MEGA HD
-http://190.110.111.26:9980/play/a0n2/index.m3u8
-#EXTINF:-1,HD-03-HBO HD
-http://190.110.111.26:9980/play/a0n7/index.m3u8
-#EXTINF:-1,HD-04-HBO 2 HD
-http://190.110.111.26:9980/play/a0nd/index.m3u8
-#EXTINF:-1,HD-06--Cinecanal HD
-http://190.110.111.26:9980/play/a0n5/index.m3u8
-#EXTINF:-1,HD-07-CARACOL
-http://190.110.111.26:9980/play/a0na/index.m3u8
-#EXTINF:-1,HD-08-Cartoon Network HD
-http://190.110.111.26:9980/play/a0n9/index.m3u8
-#EXTINF:-1,HD-09-Animal Planet HD
-http://190.110.111.26:9980/play/a0ne/index.m3u8
-#EXTINF:-1,HD-10-Nat Geo HD
-http://190.110.111.26:9980/play/a0n3/index.m3u8
-#EXTINF:-1,HD-11-TMN
-http://190.110.111.26:9980/play/a0n4/index.m3u8
-#EXTINF:-1,HD-12-Kanal D Drama HD
-http://190.110.111.26:9980/play/a0n8/index.m3u8
-#EXTINF:-1,kIDS-TV-GB
-http://190.110.111.26:9980/play/a0oq/index.m3u8
+#EXTINF:-1,bein sports 1
+http://yoshiro.cu.ma/deportivo111/1.m3u8
+#EXTINF:-1, bein sports 2 ligue 1
+http://yoshiro.cu.ma/deportivo111/2.m3u8
+#EXTINF:-1, bein sports 3
+http://yoshiro.cu.ma/deportivo111/3.m3u8
+#EXTINF:-1,bein sports 4
+http://yoshiro.cu.ma/deportivo111/4.m3u8
+#EXTINF:-1,bein sports 5
+http://yoshiro.cu.ma/deportivo111/5.m3u8
+#EXTINF:-1,bein sports 6
+http://yoshiro.cu.ma/deportivo111/6.m3u8
+#EXTINF:-1,bein sports 7
+http://yoshiro.cu.ma/deportivo111/7.m3u8
+#EXTINF:-1,bein sports 8
+http://yoshiro.cu.ma/deportivo111/8.m3u8
+#EXTINF:-1,bein sports 9
+http://yoshiro.cu.ma/deportivo111/9.m3u8
+#EXTINF:-1,bein sports 10
+http://yoshiro.cu.ma/deportivo111/10.m3u8
+#EXTINF:-1,+foot
+http://yoshiro.cu.ma/deportivo111/12.m3u8
+#EXTINF:-1,liga tv hypermotion
+http://yoshiro.cu.ma/deportivo111/53.m3u8
+#EXTINF:-1,DAZN 1
+http://yoshiro.cu.ma/deportivo111/56.m3u8
+#EXTINF:-1,TUDN
+http://yoshiro.cu.ma/deportivo111/68.m3u8
+#EXTINF:-1,Fox deportes
+http://yoshiro.cu.ma/deportivo111/70.m3u8
+#EXTINF:-1,Espn deportes mx
+http://yoshiro.cu.ma/deportivo111/71.m3u8
+#EXTINF:-1,Universo
+http://yoshiro.cu.ma/deportivo111/72.m3u8
+#EXTINF:-1,Telemundo
+http://yoshiro.cu.ma/deportivo111/73.m3u8
+#EXTINF:-1,IAS
+http://yoshiro.cu.ma/deportivo111/74.m3u8
+#EXTINF:-1,TNT Premium
+http://yoshiro.cu.ma/deportivo111/75.m3u8
+#EXTINF:-1,ESPN
+http://yoshiro.cu.ma/deportivo111/76.m3u8
+#EXTINF:-1,TyC Sports
+http://yoshiro.cu.ma/deportivo111/77.m3u8
+#EXTINF:-1,Fox sports
+http://yoshiro.cu.ma/deportivo111/78.m3u8
+#EXTINF:-1,Fox sports 2
+http://yoshiro.cu.ma/deportivo111/79.m3u8
+#EXTINF:-1,Fox sports 3
+http://yoshiro.cu.ma/deportivo111/80.m3u8
+
+81 win sports +
+http://yoshiro.cu.ma/deportivo111/81.m3u8
+
+82 win sports
+http://yoshiro.cu.ma/deportivo111/82.m3u8
+
+83 tnt sports premium
+http://yoshiro.cu.ma/deportivo111/83.m3u8
+
+84 L1 MAX
+http://yoshiro.cu.ma/deportivo111/84.m3u8
+
+87 Espn ar
+http://yoshiro.cu.ma/deportivo111/87.m3u8
+
+88 Espn 2
+http://yoshiro.cu.ma/deportivo111/88.m3u8
+
+89 Espn 3
+http://yoshiro.cu.ma/deportivo111/89.m3u8
+
+90 Espn 4
+http://yoshiro.cu.ma/deportivo111/90.m3u8
+
+91 Espn 5
+http://yoshiro.cu.ma/deportivo111/91.m3u8
+
+92 Espn 6
+http://yoshiro.cu.ma/deportivo111/92.m3u8
+
+93 Espn 7
+http://yoshiro.cu.ma/deportivo111/93.m3u8
+
+94 dsports
+http://yoshiro.cu.ma/deportivo111/94.m3u8
+
+95 DSports 2
+http://yoshiro.cu.ma/deportivo111/95.m3u8
+
+96 DSports +
+http://yoshiro.cu.ma/deportivo111/96.m3u8
+
+97 Espn mx
+http://yoshiro.cu.ma/deportivo111/97.m3u8
+
+98 Espn 2 mx
+http://yoshiro.cu.ma/deportivo111/98.m3u8
+
+99 Espn 3 mx
+http://yoshiro.cu.ma/deportivo111/99.m3u8
+
+100 Espn 4 MX
+http://yoshiro.cu.ma/deportivo111/100.m3u8
+
+101 Fox sports
+http://yoshiro.cu.ma/deportivo111/101.m3u8
+
+102 Fox sports 2
+http://yoshiro.cu.ma/deportivo111/102.m3u8
+
+103 Fox sports 3
+http://yoshiro.cu.ma/deportivo111/103.m3u8
+
+104 Fs premium
+http://yoshiro.cu.ma/deportivo111/104.m3u8
+
+105 AYM
+http://yoshiro.cu.ma/deportivo111/105.m3u8
+
+106 TUDN OP2
+http://yoshiro.cu.ma/deportivo111/106.m3u8
+
+107 TUDN OP3
+http://yoshiro.cu.ma/deportivo111/107.m3u8
+
+108 azteca 7
+http://yoshiro.cu.ma/deportivo111/108.m3u8
+
+109 DSports Uruguay premium
+http://yoshiro.cu.ma/deportivo111/109.m3u8
+
+117 premier
+http://yoshiro.cu.ma/deportivo111/117.m3u8
+
+126 tnt sports 1 HBO
+http://yoshiro.cu.ma/deportivo111/126.m3u8
+
+130 tnt sports 2 HBO
+http://yoshiro.cu.ma/deportivo111/130.m3u8
+
+131 tnt sports 3 HBO
+http://yoshiro.cu.ma/deportivo111/131.m3u8
+
+132 tnt sports 4 HBO
+http://yoshiro.cu.ma/deportivo111/132.m3u8
