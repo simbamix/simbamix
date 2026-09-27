@@ -1,22 +1,15 @@
 #EXTM3U
-
-DAZN (ESPAÑA)
+#EXTINF:-1,DAZN (ESPAÑA)
 https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
-
-DAZN 2 (ESPAÑA)
+#EXTINF:-1,DAZN 2 (ESPAÑA)
 https://live881.videxhd.sbs/tvtvhd/dazn2/index.m3u8?api=1234
-
-DAZN 3 SOLO EVENTOS (ESPAÑA)
+#EXTINF:-1,DAZN 3 SOLO EVENTOS (ESPAÑA)
 https://live83.videxhd.sbs/tvtvhd/dazn3/index.m3u8?api=1234
-
-DAZN 4 SOLO EVENTOS (ESPAÑA)
+#EXTINF:-1,DAZN 4 SOLO EVENTOS (ESPAÑA)
 https://live81.videxhd.sbs/tvtvhd/dazn4/index.m3u8?api=1234
-
-DAZN F1 (ESPAÑA)
+#EXTINF:-1,DAZN F1 (ESPAÑA)
 https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234
-
-ESPN 1 (AR)
+#EXTINF:-1,ESPN 1 (AR)
 https://live881.videxhd.sbs/latamplay/espn/index.m3u8?api=1234
-
-ESPN 2 (AR)
+#EXTINF:-1,ESPN 2 (AR)
 https://live83.videxhd.sbs/latamplay/espn2/index.m3u8?api=1234
