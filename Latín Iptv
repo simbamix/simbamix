@@ -49,3 +49,31 @@ http://45.188.229.33:8000/play/a12n/index.m3u8
 http://45.188.229.33:8000/play/a191/index.m3u8
 #EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="https://i.ibb.co/hgPPXRH/ESPN6OK.jpg" group-title="⚽ DEPORTES",ESPN 6 HD
 http://45.188.229.33:8000/play/a12h/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.ibb.co/Xfn9VHS5/ESPN7OK.jpg" group-title="⚽ DEPORTES",ESPN 7
+http://45.188.229.33:8000/play/a1ey/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.ibb.co/Xfn9VHS5/ESPN7OK.jpg" group-title="⚽ DEPORTES",ESPN 7
+http://45.188.229.33:8000/play/a190/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 7 HD" tvg-logo="https://i.ibb.co/Xfn9VHS5/ESPN7OK.jpg" group-title="⚽ DEPORTES",ESPN 7 HD
+http://45.188.229.33:8000/play/a1j0/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/jkvzDvd/espn.jpg" group-title="⚽ DEPORTES",ESPN HD
+http://45.188.229.33:8000/play/a13h/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/jkvzDvd/espn.jpg" group-title="⚽ DEPORTES",ESPN HD
+http://45.188.229.33:8000/play/a1az/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://i.ibb.co/pvJ1kRt2/ESPMPREM.jpg" group-title="⚽ DEPORTES",ESPN Premium
+http://45.188.229.33:8000/play/a1l4/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://i.ibb.co/pvJ1kRt2/ESPMPREM.jpg" group-title="⚽ DEPORTES",ESPN Premium
+http://45.188.229.33:8000/play/a0tv/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://i.ibb.co/pvJ1kRt2/ESPMPREM.jpg" group-title="⚽ DEPORTES",ESPN Premium HD
+http://45.188.229.33:8000/play/a13l/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://i.ibb.co/pvJ1kRt2/ESPMPREM.jpg" group-title="⚽ DEPORTES",ESPN Premium HD
+http://45.188.229.33:8000/play/a1di/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://i.ibb.co/1rCFmcM/movisdepok.jpg" group-title="⚽ DEPORTES",Movistar Deportes
+http://45.188.229.33:8000/play/a1f3/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://i.ibb.co/Q3P8TMsB/tnt-sports.jpg" group-title="⚽ DEPORTES",TNT SPORTS
+http://45.188.229.33:8000/play/a129/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="TNT Sports" tvg-logo="https://i.ibb.co/Q3P8TMsB/tnt-sports.jpg" group-title="⚽ DEPORTES",TNT Sports
+http://45.188.229.33:8000/play/a1k1/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="TNT Sports Premium" tvg-logo="https://i.ibb.co/Q3P8TMsB/tnt-sports.jpg" group-title="⚽ DEPORTES",TNT Sports Premium
+http://45.188.229.33:8000/play/a0tu/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="TNT Sports Premiun HD" tvg-logo="https://i.ibb.co/Q3P8TMsB/tnt-sports.jpg" group-title="⚽ DEPORTES",TNT Sports Premiun HD
+http://45.188.229.33:8000/play/a137/index.m3u8
