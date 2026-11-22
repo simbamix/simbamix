@@ -81,8 +81,8 @@ http://45.188.229.33:8000/play/a0tu/index.m3u8
 http://45.188.229.33:8000/play/a137/index.m3u8
 #EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="FOX Sports 2"
 http://45.188.229.33:8000/play/a1ae/index.m3u8
+#EXTINF:-1 group-title="-",TELEAMAZONAS
+http://191.97.13.26:9003/play/a00u/index.m3u8
 #EXTINF:-1 group-title="-",SKY Sports
 http://45.228.233.222:8000/play/a04w
-EXTINF:-1 group-title="-",TELEAMAZONAS
-http://191.97.13.26:9003/play/a00u/index.m3u8
 
